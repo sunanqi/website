@@ -1,0 +1,39 @@
+{
+  "weekly-2022-03-30": {
+    "event_starts": "2022-03-30",
+    "event_name": {
+      "en": "HIIIIIIIIIIL RACER!",
+      "zh": "HIIIIIIIIIIL RACER!"
+    },
+    "maps": {
+      "en": [
+        "Big Log Sprint",
+        "Approaching Dread",
+        "Captain's Log",
+        "Sledhammer",
+        "Trail of Balance",
+        "Rubberist",
+        "Base Jump",
+        "The Big Dunes",
+        "Hairpin",
+        "Rough Road",
+        "Boarding",
+        "Killing Floors"
+      ],
+      "zh": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "event_goal": {
+      "en": "Pure time attack",
+      "zh": "纯竞速"
+    },
+    "ref_videos": {
+      "Vokope": {"yt":"_cJVTQCoo-U","b":"BV1UQ4y1r7z4"}
+    }
+  }
+}
