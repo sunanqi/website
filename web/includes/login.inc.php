@@ -11,16 +11,17 @@ if (!isset($_POST['login-submit'])) {
 require "dbh.inc.php";
 $emailuid = $_POST['usernameemail'];
 $password = $_POST['psw'];
+$location = $_POST['location'];
 
 if (empty($emailuid) || empty($password)) {
-  header("Location: ../login.php?lang=".$lang."error=empty_fields");
+  header("Location: ../login.php?lang=".$lang."&error=empty_fields&location=".$location);
   exit();
 }
 
 $sql = "SELECT * FROM users WHERE username=? OR user_email=?";
 $stmt = mysqli_stmt_init($conn);
 if (!mysqli_stmt_prepare($stmt, $sql)) {
-  header("Location: ../login.php?lang=".$lang."&error=sql_error");
+  header("Location: ../login.php?lang=".$lang."&error=sql_error&location=".$location);
   exit;
 }
 
@@ -31,7 +32,7 @@ $result = mysqli_stmt_get_result($stmt);
 if ($row = mysqli_fetch_assoc($result)) {
   $pwdCheck = password_verify($password, $row['user_password']);
   if ($pwdCheck==false) {
-    header("Location: ../login.php?lang=".$lang."&error=wrong_password");
+    header("Location: ../login.php?lang=".$lang."&error=wrong_password&location=".$location);
     exit;
   } elseif ($pwdCheck==true) {
     session_start();
@@ -42,7 +43,7 @@ if ($row = mysqli_fetch_assoc($result)) {
     $sql = "SELECT * FROM user_roles WHERE userid=?";
     $stmt = mysqli_stmt_init($conn);
     if (!mysqli_stmt_prepare($stmt, $sql)) {
-      header("Location: ../login.php?lang=".$lang."&error=sql_error");
+      header("Location: ../login.php?lang=".$lang."&error=sql_error&location=".$location);
       exit;
     }
     mysqli_stmt_bind_param($stmt, "s", $_SESSION['userid']);
@@ -55,11 +56,15 @@ if ($row = mysqli_fetch_assoc($result)) {
       $_SESSION['userrole'] = 'user';
     }
 
-    header("Location: ../index.php?lang=".$lang."&login=success");
+    if (strpos($_POST['location'],'?')) {
+      header("Location: ../..".$location."&login=success");
+    } else {
+      header("Location: ../..".$location."?login=success");
+    }
     exit();
   }
 } else {
-  header("Location: ../index.php?lang=".$lang."&error=user_not_exist");
+  header("Location: ../login.php?lang=".$lang."&error=user_not_exist&location=".$location);
   exit;
 }
 

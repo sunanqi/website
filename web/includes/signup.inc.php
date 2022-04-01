@@ -52,7 +52,7 @@
           mysqli_stmt_bind_param($stmt, "ssss", $username, $email, $hashedPwd, $signup_date);
           mysqli_stmt_execute($stmt);
           mysqli_stmt_store_result($stmt);
-          header("Location: ../login.php?lang=".$lang."&signup=success");
+          header("Location: ../login.php?lang=".$lang."&signup=success"."&location=".$_GET['location']);
           exit();
         }
       }
@@ -61,7 +61,7 @@
     mysqli_close($conn);
   }
   else {
-    header("Location: ../signup.php?lang=".$lang);
+    header("Location: ../signup.php?lang=".$lang."&location=".$_GET['location']);
     exit;
   }
 ?>
