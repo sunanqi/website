@@ -1,7 +1,8 @@
 <?php
   $servername = "localhost";
   $dBUsername = "root";
-  $dBPassword = "NH0G1q7vAeEw"; //"kE4cvDePxC2a"; "NH0G1q7vAeEw";
+  // test password
+  $dBPassword = "test";
   $dBName = "hcr2_database";
 
   $conn = mysqli_connect($servername, $dBUsername, $dBPassword, $dBName);
