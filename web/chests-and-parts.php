@@ -1,4 +1,6 @@
 <?php
+  $title = "Chests and Parts - Unofficial Hill Climb Racing 2 Wiki";
+  $title_zh = "宝箱与零件 - 登山赛车2 攻略 技巧 排行榜";
   require "header.php";
 ?>
 <style>

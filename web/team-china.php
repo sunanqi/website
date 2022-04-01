@@ -1,8 +1,11 @@
 <?php
+  $title = "Unofficial Hill Climb Racing 2 Wiki";
+  $title_zh = "Team China - 登山赛车2 攻略 技巧 排行榜";
   require "header.php";
 ?>
+<script src="../js/sort-table.js"></script>
 <style>
-  #teamchina {
+  .teamchina_header {
     background-color: #4AAA31; /* 74,170,49 */
   }
 
@@ -26,33 +29,129 @@
 
     <h3>Team China</h3>
     <p>...</p>
+    <?php
+    if ($lang!='zh') {
+      echo "<script type='text/javascript'>location.href = '/web/index.php';</script>";
+    }
+    ?>
+
   </div>
 
   <div class="main" <?php if ($lang!='zh') echo "style='display:none;'";?>>
     <p class="welcome">欢迎 <?php echo isset($_SESSION['username']) ? ', '.$_SESSION['username'] : ''?>!</p>
 
-    <h3>Team China中国队及其梯队</h3>
-    <p>Team China系列队伍集合了中国绝大部分高手玩家，目前一共有5支活跃队伍
+    <h3>Team China</h3>
+    <p>Team China是我们所有车队中战力最强的一支，集合了中国绝大部分高手玩家，是所有以中国人为班底的队伍中最强的一支。Team China的前身是极速狂热。历史最高排名第三，之后在Fingersoft几波有争议的严打后，损失多位前排大佬，逐渐下降到15名左右，又逐渐下降到40名左右。目前Team China在CC级（最高级别）联赛中排名 30 ~ 40 名。</p>
       <ul>
-        <li>Team China（一队）</li>
-        <p>目前世界排名38（截至2020-09-11）。满足以下两个条件中一个可以申请入队：1) 大部分满分4万分的队赛可以达到2.5万分以上，为队赛做贡献；2) 或者每周可以跑400千米，为队箱做贡献。</p>
-        <li>Team China II（二队）</li>
-        <p>目前世界排名185（截至2020-09-11）。入队标准：每周至少跑100km，积极参加每场队赛。</p>
-        <li>三支后备队</li>
-        <p>分别是“极速卖萌”，“极速上航”，“Age of China”。车子等级不够，或者时常没空花时间练习打比赛的玩家，在这三个队。入队标准：每周至少跑50km。</p>
+        <li><a href="#team_china_roster">Team China现役队员</a></li>
+        <li><a href="#team_china_score">近期战绩</a></li>
+        <li><a href="#past_ranking">队伍排名</a></li>
       </ul>
-    欢迎加入我们。加我们的QQ群：255579428。（微信：rousong_2013；Discord: PR-Rou#3033）。群管理员会帮助你快速上手！
+
+    <a id="team_china_roster"></a>
+    <h3>Team China现役队员</h3>
+    <p>点击首行冒险分数，杯赛分数，车库值可以排序 <br></p>
+    <table id="tc_roster_table">
+      <caption>Team China队员名单</caption>
+      <tr>
+        <th>#</th>
+        <th>队员</th>
+        <th onclick="sortTable('tc_roster_table',2)">杯赛分数</th>
+        <th onclick="sortTable('tc_roster_table',3)">冒险分数</th>
+        <th onclick="sortTable('tc_roster_table',4)">车库值</th>
+        <?php
+        if (($role == 'superadmin') || ($role == 'admin') || ($role == 'data_contrib')) {
+          echo "<th>最后更新</th>";
+        }
+         ?>
+      </tr>
+
+      <?php
+      $json = file_get_contents('../data/players.json');
+      $players = json_decode($json,true);
+      $team_rank = 1;
+      $last_update = '';
+
+      foreach ($players as $player => $row) {
+        if ($row['team'] != "Team China🇨🇳") continue;
+        echo "<tr><td>".$team_rank."</td>";
+        echo "<td>" . $player . "</td>";
+        echo "<td>" . $row['cup_pt'] . "</td>";
+        echo "<td>" . $row['adv_pt'] . "</td>";
+        echo "<td>" . $row['gp'] . "</td>";
+        if (($role == 'superadmin') || ($role == 'admin') || ($role == 'data_contrib')) {
+          echo "<td>" . $row['last_update'] . "</td>";
+        }
+        echo "</tr>";
+
+        $team_rank += 1;
+        if (empty($last_update)) {
+          $last_update = $row['last_update'];
+        } else {
+          $last_update = min($last_update, $row['last_update']);
+        }
+
+      }
+      ?>
+    </table>
+    <?php
+    echo '<script type="text/javascript">
+      sortTable("tc_roster_table",2);
+      </script>';
+    ?>
+    最后更新：<?=$last_update;?> <br>
+
+    <a id="team_china_score"></a>
+    <h3>Team China近期战绩</h3>
+    <table id="tc_score_table" class="smaller_text">
+      <caption>Team China近期战绩</caption>
+      <tr>
+        <th onclick="sortTable('tc_score_table',0,false,false)">日期</th>
+        <th>对手</th>
+        <th>比赛结果</th>
+        <th>我队高分</th>
+        <th>结算视频</th>
+      </tr>
+
+      <?php
+      $json = file_get_contents('../data/match_scores.json');
+      $match_scores = json_decode($json,true);
+
+      foreach ($match_scores as $row) {
+        if ($row['host'] != "Team China🇨🇳") continue;
+        echo "<tr><td>" . $row['match_date'] . "</td>";
+        echo "<td>" . $row['guest'] . "</td>";
+        echo "<td>" . $row['host_pt']." : ".$row['guest_pt'] . "</td>";
+
+        echo "<td>" . $row['host_top3_pt'][0][0]."(".$row['host_top3_pt'][0][1]."), "
+                    . $row['host_top3_pt'][1][0]."(".$row['host_top3_pt'][1][1]."), "
+                    . $row['host_top3_pt'][2][0]."(".$row['host_top3_pt'][2][1].")". "</td>";
+
+        if (strlen($row['video_link'])) {
+          echo "</td><td><a href='https://www.bilibili.com/video/".$row['video_link']."' target='_blank'>Bilibili</a>";
+        } else {
+          echo "</td><td>";
+        }
+        echo "</tr>";
+
+      }
+      ?>
+    </table>
+    <?php
+    echo '<script type="text/javascript">
+      sortTable("tc_score_table",0,false,false);
+      </script>';
+    ?>
+
+    <a id="past_ranking"></a>
+    <h3>Team China排名</h3>
+    <?php
+    echo "编辑中";
+    #include "team-china-past-ranking.php" ?>
+    <p>
+
     </p>
 
-    <h3>Team China历史战绩</h3>
-    <p>
-      <?php include "team-china-scores.php" ?>
-    </p>
-
-    <h3>Team China现役成员</h3>
-    <p>
-      <?php include "team-china-roster.php" ?>
-    </p>
 
   </div>
 

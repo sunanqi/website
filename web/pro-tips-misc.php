@@ -1,4 +1,6 @@
 <?php
+  $title = "Other pro tips - Unofficial Hill Climb Racing 2 Wiki";
+  $title_zh = "其他信息 - 登山赛车2 攻略 技巧 排行榜";
   require "header.php";
 ?>
 <style>

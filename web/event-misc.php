@@ -1,4 +1,6 @@
 <?php
+  $title = "Event Misc - Unofficial Hill Climb Racing 2 Wiki";
+  $title_zh = "每周活动 - 登山赛车2 攻略 技巧 排行榜";
   require "header.php";
 ?>
 <style>
@@ -21,7 +23,7 @@
     <p class="welcome">欢迎 <?php echo isset($_SESSION['username']) ? ', '.$_SESSION['username'] : ''?>!</p>
 
     <h3>活动模式其他信息</h3>
-    <p>...</p>
+    <p>暂无内容，待添加。</p>
 
 
   </div>
