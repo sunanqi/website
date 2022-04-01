@@ -1,4 +1,6 @@
 <?php
+  $title = "Privacy policy - Unofficial Hill Climb Racing 2 Wiki";
+  $title_zh = "隐私政策 - 登山赛车2 攻略 技巧 排行榜";
   require "header.php";
 ?>
 
