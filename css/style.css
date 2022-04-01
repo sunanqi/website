@@ -15,7 +15,7 @@ body {
   overflow: hidden;
 }
 
-#homepage, #teamchina, .topnav .icon {
+#homepage, .topnav .icon, .teamchina, .friend_link {
   display: block;
   float: left;
   color: white;
@@ -88,7 +88,7 @@ header img {
   color: white;
 }
 
-#header-signup, #header-login, #header-logout, #header-account {
+#header-signup, #header-login, #header-logout, #header-account, #language_en, #language_zh {
   display: inline-block;
   color: white;
   font-size: 18px;
@@ -96,12 +96,16 @@ header img {
   text-decoration: none;
 }
 
+#language_en, #language_zh {
+  padding: 15px 15px 15px 0;
+}
+
 .flex-container {
   display: flex;
   flex-wrap: nowrap;
 }
 
-.leftsidebar, .rightsidebar {
+#leftsidebar, #rightsidebar {
   width: 15%;
   background-color: #f1f1f1;
   margin: 10px;
@@ -213,6 +217,11 @@ padding: 14px;
 opacity: 1;
 }
 
+u.dotted {
+  border-bottom: 1px dashed #999;
+  text-decoration: none;
+}
+
 a {
   color: dodgerblue;
 }
@@ -256,11 +265,17 @@ footer a {
   margin: 40px 0 20px 0;
 }
 
+.main h4 {
+  color: blue;
+  font-size: 25px;
+  margin: 40px 0 20px 0;
+}
+
 .main p {
   line-height: 1.6;
 }
 
-.main p img.allowed {
+.main img.allowed {
   border-radius: 16px;
 }
 
@@ -292,6 +307,11 @@ footer a {
   color: white;
 }
 
+.main .table_summary {
+  color: blue;
+  font-weight: bold;
+}
+
 .main table td, .main table th {
   border: 1px solid #ddd;
   padding: 8px;
@@ -306,6 +326,14 @@ footer a {
   text-align: center;
   background-color: #73BE4A;
   color: white;
+}
+
+.main table td {
+  text-align: center;
+}
+
+.main table .update_info {
+  text-align: left;
 }
 
 .main figure {
@@ -338,7 +366,7 @@ footer a {
 }
 
 .main table img.in_table_small {
-  width: 30px;
+  width: 40px;
   vertical-align: middle;
   padding: 0;
 }
@@ -349,7 +377,7 @@ footer a {
   padding: 0;
 }
 
-.main p .allowed {
+.main .allowed {
   width: 100px;
 }
 
@@ -360,8 +388,21 @@ footer a {
 }
 
 .main ul li {
-  color: blue;
+  /* color: blue; */
   padding: 10px 0;
+}
+
+.main span.in-line-red {
+  color: red;
+}
+
+.main span.in-line-blue {
+  color: blue;
+}
+
+.main p span.in-line-blue-bold, .main ul li span.in-line-blue-bold {
+  color: blue;
+  font-weight: bold;
 }
 
 #cal_score {
@@ -390,6 +431,14 @@ footer a {
   cursor: pointer;
 }
 
+table.smaller_text {
+  font-size: 16px;
+}
+
+div.inline-button button {
+  display: inline-block;
+}
+
 .main video {
   width: 100%;
   height: auto;
@@ -402,19 +451,23 @@ footer a {
 }
 
 @media screen and (max-width: 860px) { /* or use 1040px? 720px? */
-  .topnav a:not(:first-child), .dropdown .dropbutton, #header-rhs {
+  .topnav a:not(:first-child), .dropdown .dropbutton, .teamchina, .friend_link {
     display: none;
   }
+
   .topnav a.icon {
   float: right;
   display: block;
   }
+
   .topnav.responsive {position: relative;}
+
   .topnav.responsive .icon {
     position: absolute;
     right: 0;
     top: 0;
   }
+
   .topnav.responsive a {
     float: none;
     display: block;
@@ -430,13 +483,13 @@ footer a {
 
   .topnav.responsive .dropdown {float: none;}
   .topnav.responsive .dropdown-content {position: relative;}
-  .topnav.responsive .dropdown .dropbutton {
+  .topnav.responsive .dropdown .dropbutton, .topnav.responsive .teamchina, .topnav.responsive .friend_link {
     display: block;
     width: 100%;
     text-align: left;
   }
 
-  .leftsidebar, .rightsidebar {
+  #leftsidebar, #rightsidebar {
     display: none;
   }
 
@@ -447,4 +500,34 @@ footer a {
   #cal_score {
     width: 100%;
   }
+}
+
+/* This element defines the size the iframe will take.
+   In this example we want to have a ratio of 16:9 */
+.aspect-ratio {
+  position: relative;
+  width: 100%;
+  height: 0;
+  padding-bottom: 56.25%; /* The height of the item will now be 56.25% of the width. */
+}
+
+/* Adjust the iframe so it's rendered in the outer-width and outer-height of it's parent */
+.aspect-ratio iframe {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  left: 0;
+  top: 0;
+}
+
+#leftsidebar {
+  background-image: url("../img/chests/chests_all.png");
+  background-size: 100% auto;
+  opacity: .3;
+}
+
+#rightsidebar {
+  background-image: url("../img/vehicles/vehicles_all_22.png");
+  background-size: 100% auto;
+  opacity: .3;
 }
