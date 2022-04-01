@@ -1,0 +1,51 @@
+{
+  "common": {
+    "en": "Common",
+    "zh": "普通",
+    "img": "img/chests/common.png"},
+
+  "uncommon": {
+    "en": "Uncommon",
+    "zh": "罕见",
+    "img": "img/chests/uncommon.png"},
+
+  "rare": {
+    "en": "Rare",
+    "zh": "稀有",
+    "img": "img/chests/rare.png"},
+
+  "epic": {
+    "en": "Epic",
+    "zh": "史诗",
+    "img": "img/chests/epic.png"},
+
+  "champion": {
+    "en": "Uncommon",
+    "zh": "冠军",
+    "img": "img/chests/champion.png"},
+
+  "legendary": {
+    "en": "Legendary",
+    "zh": "传奇",
+    "img": "img/chests/legendary.png"},
+
+  "vip": {
+    "en": "VIP",
+    "zh": "VIP",
+    "img": "img/chests/vip.png"},
+
+  "8hr_blue": {
+    "en": "Daily Blue",
+    "zh": "每日蓝色",
+    "img": "img/chests/daily_blue.png"},
+
+  "daily_red": {
+    "en": "Daily Red",
+    "zh": "每日红色",
+    "img": "img/chests/daily_red.png"},
+
+  "adventure": {
+    "en": "Adventure",
+    "zh": "冒险",
+    "img": "img/chests/adventure.png"}
+}

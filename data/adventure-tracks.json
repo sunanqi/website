@@ -1,0 +1,1734 @@
+{
+  "Countryside": {
+    "no": 1,
+    "en": "Countryside",
+    "zh": "田园",
+    "fuels": {
+      "150": ["",""],
+      "300": [],
+      "450": [],
+      "600": [],
+      "800": [],
+      "1000": [],
+      "1200": [],
+      "1450": [],
+      "1700": [],
+      "1950": [],
+      "2250": [],
+      "2550": [],
+      "2850": [],
+      "3150": ["Barn at 3227m and 3449m","3227，3449米谷仓"],
+      "3500": ["Barn at 3741m and 3846m","3741，3846米谷仓"],
+      "3850": [],
+      "4200": [],
+      "4600": [],
+      "5000": [],
+      "5400": [],
+      "5850": [],
+      "6300": [],
+      "6750": [],
+      "7200": [],
+      "7700": [],
+      "8200": [],
+      "8700": [],
+      "9250": [],
+      "9800": [],
+      "10350": [],
+      "10950": [],
+      "11550": [],
+      "12150": [],
+      "12750": [],
+      "13400": [],
+      "14050": [],
+      "14700": [],
+      "15400": [],
+      "16100": []
+    },
+    "Hill Climber": {
+      "wr": ["VIP€R❌",9313],
+      "cr": ["CN-极速飞飞", 8118],
+      "csr": [],
+      "video": {
+        "Vereshchak": [7697, ["yt", "8hE3Kxa8HcA"], ["b", "BV1bt4y1B7Bk"]]
+      }
+    },
+    "Scooter": {
+      "wr": ["NBR|DiamØndK",9298],
+      "cr": ["CN-极速飞飞", 7553],
+      "csr": []},
+    "Bus": {
+      "wr": ["RS|KnightGP", 10908],
+      "cr": ["CN-极速飞飞", 10133],
+      "csr": [],
+      "video": {
+        "NekoRei+": [9583, ["yt", "gamck6dMb3c"], ["b", "BV1Py4y1n7XC"]],
+        "CN-极速飞飞": [9294, ["b", "BV1hy4y1k7AL"]]
+      }
+    },
+    "Hill Climber Mk 2": {
+      "wr": ["BlackyNekø~", 9167],
+      "cr": ["CN-极速飞飞", 8255],
+      "csr": []},
+    "Tractor": {
+      "wr": ["CN-极速飞飞", 9795],
+      "cr": ["CN-极速飞飞", 9795],
+      "csr": []},
+    "Motocross": {
+      "wr": ["CN-极速飞飞", 8071],
+      "cr": ["CN-极速飞飞", 8071],
+      "csr": []},
+    "Dune Buggy": {
+      "wr": ["Zorro", 12683],
+      "cr": ["CN-极速飞飞", 10873],
+      "csr": []},
+    "Sports Car": {
+      "wr": ["M LARS", 8116],
+      "cr": ["CN-极速飞飞", 7696],
+      "csr": []},
+    "Monster Truck": {
+      "wr": ["Papperrellix", 9695],
+      "cr": ["Bad guy", 7550],
+      "csr": []},
+    "Rotator": {
+      "wr": ["VIP€R❌", 9797],
+      "cr": ["CN-极速飞飞", 7132],
+      "csr": []},
+    "Super Diesel": {
+      "wr": ["Petros🇬", 14678],
+      "cr": ["CN-极速飞飞", 12935],
+      "csr": []},
+    "Chopper": {
+      "wr": ["VIP€R❌", 9692],
+      "cr": ["CN-极速飞飞", 9462],
+      "csr": []},
+    "Tank": {
+      "wr": ["Petros🇬", 17514],
+      "cr": ["CN-极速飞飞", 15385],
+      "csr": []},
+    "Snowmobile": {
+      "wr": ["CN-极速飞飞", 10935],
+      "cr": ["CN-极速飞飞", 10935],
+      "csr": []},
+    "Monowheel": {
+      "wr": ["Gamerbro44", 7676],
+      "cr": ["CN-极速飞飞", 5769],
+      "csr": []},
+    "Rally Car": {
+      "wr": ["Petros🇬", 14667],
+      "cr": ["CN-极速飞飞", 14023],
+      "csr": []},
+    "Formula": {
+      "wr": ["《cute》❄️", 7830],
+      "cr": ["CN-极速飞飞", 7162],
+      "csr": []},
+    "Racing Truck": {
+      "wr": ["CN-极速飞飞", 14025],
+      "cr": ["CN-极速飞飞", 14025],
+      "csr": []},
+    "Hot Rod": {
+      "wr": ["[PR]linus", 7688],
+      "cr": ["CN-极速飞飞", 7276],
+      "csr": []},
+    "CC-EV": {
+      "wr": ["BadAtHCR", 15364],
+      "cr": ["CN-极速飞飞", 12662],
+      "csr": []},
+    "Superbike": {
+      "wr": ["[PR]linus", 7682],
+      "cr": ["CN-极速飞飞", 7551],
+      "csr": []},
+    "Supercar": {
+      "wr": ["[PR]linus", 8125],
+      "cr": ["CN-极速飞飞", 7689],
+      "csr": []},
+    "Moonlander": {
+      "wr": ["FLYシ", 6242],
+      "cr": ["CN-极速飞飞", 6201],
+      "csr": []},
+    "update_dt": "2022-02-26"
+  },
+
+  "Forest": {
+    "no": 2,
+    "en": "Forest",
+    "zh": "森林",
+    "Hill Climber": {
+      "wr": ["BlackyNekø~", 22978],
+      "cr": ["CN-中华有为", 12861],
+      "csr": []},
+    "Scooter": {
+      "wr": ["Creeperz", 24220],
+      "cr": ["CN-Cheems", 14642],
+      "csr": []},
+    "Bus": {
+      "wr": ["BlackyNekø~", 34355],
+      "cr": ["CN-龙虾妹妹", 12825],
+      "csr": []},
+    "Hill Climber Mk 2": {
+      "wr": ["BlackyNekø~", 36785],
+      "cr": ["CN-极速英雄", 15266],
+      "csr": []},
+    "Tractor": {
+      "wr": ["BlackyNekø~", 33622],
+      "cr": ["斯巴克贾巴", 18163],
+      "csr": []},
+    "Motocross": {
+      "wr": ["BlackyNekø~", 18565],
+      "cr": ["CN沙拉登", 10659],
+      "csr": []},
+    "Dune Buggy": {
+      "wr": ["Zorro", 38555],
+      "cr": ["Chefi", 21063],
+      "csr": []},
+    "Sports Car": {
+      "wr": ["DIESEL🐥", 25607],
+      "cr": ["Green wind", 12120],
+      "csr": []},
+    "Monster Truck": {
+      "wr": ["BlackyNekø~", 27007],
+      "cr": ["CN-Jerry", 18706],
+      "csr": []},
+    "Rotator": {
+      "wr": ["BlackyNekø~", 25604],
+      "cr": ["CN-中华有为", 19771],
+      "csr": []},
+    "Super Diesel": {
+      "wr": ["BlackyNekø~", 40216],
+      "cr": ["CN-中华有为", 26379],
+      "csr": []},
+    "Chopper": {
+      "wr": ["BlackyNekø~", 33170],
+      "cr": ["CN-aKun", 19145],
+      "csr": []},
+    "Tank": {
+      "wr": ["BlackyNekø~", 40250],
+      "cr": ["+Johnnyzuo+", 32158],
+      "csr": []},
+    "Snowmobile": {
+      "wr": ["Zorro", 32150],
+      "cr": ["CN-中华有为", 20138],
+      "csr": []},
+    "Monowheel": {
+      "wr": ["Zorro", 15286],
+      "cr": ["TC|94586", 11731],
+      "csr": []},
+    "Rally Car": {
+      "wr": ["Petros🇬", 46374],
+      "cr": ["CN-极速飞飞", 41026],
+      "csr": []},
+    "Formula": {
+      "wr": ["BlackyNekø~", 18004],
+      "cr": ["聪明珊瑚脑", 11749],
+      "csr": []},
+    "Racing Truck": {
+      "wr": ["Petros🇬", 38673],
+      "cr": ["CN-极速飞飞", 38562],
+      "csr": []},
+    "Hot Rod": {
+      "wr": ["BlackyNekø~", 14310],
+      "cr": ["CN-极速飞飞", 11763],
+      "csr": []},
+    "CC-EV": {
+      "wr": ["Zorro no", 62314],
+      "cr": ["CN-极速飞飞", 39388],
+      "csr": []},
+    "Superbike": {
+      "wr": ["BlackyNekø~", 18607],
+      "cr": ["小脚儿翘翘", 11775],
+      "csr": []},
+    "Supercar": {
+      "wr": ["DIESEL🐥", 18013],
+      "cr": ["CN-沙拉登", 11751],
+      "csr": []},
+    "Moonlander": {
+      "wr": ["🇩🇪Road", 11762],
+      "cr": ["小脚儿翘翘", 11200],
+      "csr": []},
+    "update_dt": "2022-02-26"
+  },
+
+  "City": {
+    "no": 3,
+    "en": "City",
+    "zh": "城市",
+    "Hill Climber": {
+      "wr": ["《cute》❄️", 15930],
+      "cr": ["CN-极速飞飞", 11332],
+      "csr": []},
+    "Scooter": {
+      "wr": ["MG|BIll", 13181],
+      "cr": ["CN-极速飞飞", 10049],
+      "csr": []},
+    "Bus": {
+      "wr": ["Raiden", 27135],
+      "cr": ["CN-极速飞飞", 15923],
+      "csr": []},
+    "Hill Climber Mk 2": {
+      "wr": ["《cute》❄️", 12559],
+      "cr": ["CN-极速飞飞", 10964],
+      "csr": []},
+    "Tractor": {
+      "wr": ["|DC|╎-╎3DG3", 14511],
+      "cr": ["CN-极速飞飞", 12515],
+      "csr": []},
+    "Motocross": {
+      "wr": ["Zorro", 11413],
+      "cr": ["CN-极速飞飞", 10012],
+      "csr": []},
+    "Dune Buggy": {
+      "wr": ["《cute》❄️", 17999],
+      "cr": ["CN-极速飞飞", 16996],
+      "csr": []},
+    "Sports Car": {
+      "wr": ["《cute》❄️", 14929],
+      "cr": ["CN-极速飞飞", 10009],
+      "csr": []},
+    "Monster Truck": {
+      "wr": ["《cute》❄️", 17869],
+      "cr": ["CN-极速飞飞", 10107],
+      "csr": []},
+    "Rotator": {
+      "wr": ["Zorro", 18009],
+      "cr": ["CN-极速飞飞", 11976],
+      "csr": []},
+    "Super Diesel": {
+      "wr": ["《cute》❄️", 19647],
+      "cr": ["CN-极速飞飞", 15356],
+      "csr": []},
+    "Chopper": {
+      "wr": ["《cute》❄️", 20531],
+      "cr": ["CN-极速飞飞", 13322],
+      "csr": []},
+    "Tank": {
+      "wr": ["《cute》❄️", 20957],
+      "cr": ["CN-极速飞飞", 15177],
+      "csr": []},
+    "Snowmobile": {
+      "wr": ["Can Tapanç", 20970],
+      "cr": ["CN-自力传说", 11423],
+      "csr": []},
+    "Monowheel": {
+      "wr": ["《cute》❄️", 15928],
+      "cr": ["CN-自力传说", 10107],
+      "csr": []},
+    "Rally Car": {
+      "wr": ["RS|RUR|DB", 22123],
+      "cr": ["CN-极速飞飞", 19662],
+      "csr": []},
+    "Formula": {
+      "wr": ["[PR]linus", 15928],
+      "cr": ["CN-极速飞飞", 11423],
+      "csr": []},
+    "Racing Truck": {
+      "wr": ["BlackyNekø~", 17833],
+      "cr": ["CN-极速飞飞", 15916],
+      "csr": []},
+    "Hot Rod": {
+      "wr": ["Zorro", 15928],
+      "cr": ["CN-极速飞飞", 11348],
+      "csr": []},
+    "CC-EV": {
+      "wr": ["《cute》❄️", 23264],
+      "cr": ["CN-极速飞飞", 20540],
+      "csr": []},
+    "Superbike": {
+      "wr": ["CN-极速飞飞", 15928],
+      "cr": ["CN-极速飞飞", 15928],
+      "csr": []},
+    "Supercar": {
+      "wr": ["《cute》❄️", 15925],
+      "cr": ["CN-自力传说", 10033],
+      "csr": []},
+    "Moonlander": {
+      "wr": ["[EE|PA]Neo", 7612],
+      "cr": ["CN-极速飞飞", 7560],
+      "csr": []},
+    "update_dt": "2022-02-26"
+  },
+
+  "Mountain": {
+    "no": 4,
+    "en": "Mountain",
+    "zh": "高山",
+    "Hill Climber": {
+      "wr": ["[PR]Dzoing", 8985],
+      "cr": ["CN-极速飞飞", 8719],
+      "csr": []},
+    "Scooter": {
+      "wr": ["Zorro", 9183],
+      "cr": ["CN-极速飞飞", 9002],
+      "csr": []},
+    "Bus": {
+      "wr": ["Velkyrin", 10538],
+      "cr": ["CN-极速飞飞", 10163],
+      "csr": []},
+    "Hill Climber Mk 2": {
+      "wr": ["DIESEL🐥", 9049],
+      "cr": ["CN-极速飞飞", 8716],
+      "csr": []},
+    "Tractor": {
+      "wr": ["DIESEL🐥", 12343],
+      "cr": ["CN-极速飞飞", 12335],
+      "csr": []},
+    "Motocross": {
+      "wr": ["DIESEL🐥", 7284],
+      "cr": ["CN-极速飞飞", 7209],
+      "csr": []},
+    "Dune Buggy": {
+      "wr": ["Velkyrin", 12348],
+      "cr": ["CN|AD-Daren", 10530],
+      "csr": []},
+    "Sports Car": {
+      "wr": ["Zorro", 10482],
+      "cr": ["CN-极速飞飞", 9020],
+      "csr": []},
+    "Monster Truck": {
+      "wr": ["Zorro", 10492],
+      "cr": ["CN-极速飞飞", 10490],
+      "csr": []},
+    "Rotator": {
+      "wr": ["Crane", 10520],
+      "cr": ["CN-极速飞飞", 10482],
+      "csr": []},
+    "Super Diesel": {
+      "wr": ["DIESEL🐥", 13978],
+      "cr": ["DR-567", 10571],
+      "csr": []},
+    "Chopper": {
+      "wr": ["Zorro", 10483],
+      "cr": ["CN-极速飞飞", 9237],
+      "csr": []},
+    "Tank": {
+      "wr": ["BlackyNekø~", 12195],
+      "cr": ["CN-极速飞飞", 10492],
+      "csr": []},
+    "Snowmobile": {
+      "wr": ["CN-极速飞飞", 12771],
+      "cr": ["CN-极速飞飞", 12771],
+      "csr": []},
+    "Monowheel": {
+      "wr": ["[EE]Neo", 6870],
+      "cr": ["CN-极速飞飞", 5142],
+      "csr": []},
+    "Rally Car": {
+      "wr": ["Petros🇬", 16233],
+      "cr": ["CN-极速飞飞", 16225],
+      "csr": []},
+    "Formula": {
+      "wr": ["Zorro", 8721],
+      "cr": ["CN-极速飞飞", 5165],
+      "csr": []},
+    "Racing Truck": {
+      "wr": ["HCR2 2016", 16237],
+      "cr": ["CN-极速飞飞", 10058],
+      "csr": []},
+    "Hot Rod": {
+      "wr": ["Zorro", 9018],
+      "cr": ["CN-极速飞飞", 8716],
+      "csr": []},
+    "CC-EV": {
+      "wr": ["||Cobus", 12702],
+      "cr": ["CN-极速飞飞", 10492],
+      "csr": []},
+    "Superbike": {
+      "wr": ["CN-极速飞飞", 8988],
+      "cr": ["CN-极速飞飞", 8988],
+      "csr": []},
+    "Supercar": {
+      "wr": ["CN-极速飞飞", 10507],
+      "cr": ["CN-极速飞飞", 10507],
+      "csr": []},
+    "Moonlander": {
+      "wr": ["RemaX🐥",4833],
+      "cr": ["CN-极速飞飞", 3640],
+      "csr": []},
+    "update_dt": "2022-02-26"
+  },
+
+  "Rustbucket Reef": {
+    "no": 5,
+    "en": "Rustbucket Reef",
+    "zh": "锈桶礁石",
+    "Hill Climber": {
+      "wr": ["Zorro", 12590],
+      "cr": ["CN-极速飞飞", 10315],
+      "csr": []},
+    "Scooter": {
+      "wr": ["Zorro", 12590],
+      "cr": ["CN-极速飞飞", 10148],
+      "csr": []},
+    "Bus": {
+      "wr": ["Zorro", 19841],
+      "cr": ["CN|DR-HUAWEI", 12445],
+      "csr": []},
+    "Hill Climber Mk 2": {
+      "wr": ["Zorro", 12586],
+      "cr": ["CN-自力传说", 10761],
+      "csr": []},
+    "Tractor": {
+      "wr": ["Zorro", 14056],
+      "cr": ["CN-极速飞飞", 12589],
+      "csr": []},
+    "Motocross": {
+      "wr": ["Zorro", 11329],
+      "cr": ["CN-极速飞飞", 10096],
+      "csr": []},
+    "Dune Buggy": {
+      "wr": ["Zorro", 17303],
+      "cr": ["CN-极速飞飞", 12584],
+      "csr": []},
+    "Sports Car": {
+      "wr": ["Zorro", 13902],
+      "cr": ["CN-极速飞飞", 12584],
+      "csr": []},
+    "Monster Truck": {
+      "wr": ["Zorro", 14044],
+      "cr": ["CN-极速飞飞", 11205],
+      "csr": []},
+    "Rotator": {
+      "wr": ["Zorro", 14055],
+      "cr": ["CN-极速飞飞", 10983],
+      "csr": []},
+    "Super Diesel": {
+      "wr": ["Zorro", 40237],
+      "cr": ["CN-极速飞飞", 14051],
+      "csr": []},
+    "Chopper": {
+      "wr": ["Zorro", 14339],
+      "cr": ["CN-自力传说", 11266],
+      "csr": []},
+    "Tank": {
+      "wr": ["Zorro", 19789],
+      "cr": ["CN-极速飞飞", 15640],
+      "csr": []},
+    "Snowmobile": {
+      "wr": ["Zorro", 14046],
+      "cr": ["CN-极速飞飞", 12619],
+      "csr": []},
+    "Monowheel": {
+      "wr": ["Zorro", 10756],
+      "cr": ["CN-极速飞飞", 7455],
+      "csr": []},
+    "Rally Car": {
+      "wr": ["Zorro", 49157],
+      "cr": ["CN-极速飞飞", 17299],
+      "csr": []},
+    "Formula": {
+      "wr": ["Zorro", 12321],
+      "cr": ["CN-极速飞飞", 10679],
+      "csr": []},
+    "Racing Truck": {
+      "wr": ["Zorro", 28991],
+      "cr": ["CN-极速飞飞", 25697],
+      "csr": []},
+    "Hot Rod": {
+      "wr": ["Zorro", 9469],
+      "cr": ["CN-极速飞飞", 8279],
+      "csr": []},
+    "CC-EV": {
+      "wr": ["Zorro", 60387],
+      "cr": ["CN-极速飞飞", 28278],
+      "csr": []},
+    "Superbike": {
+      "wr": ["Zorro", 9461],
+      "cr": ["CN-极速飞飞", 9344],
+      "csr": []},
+    "Supercar": {
+      "wr": ["Zorro", 11333],
+      "cr": ["CN-极速飞飞", 9479],
+      "csr": []},
+    "Moonlander": {
+      "wr": ["Zorro", 9445],
+      "cr": ["CN-极速飞飞", 9387],
+      "csr": []},
+    "update_dt": "2022-02-27"
+  },
+
+  "Winter": {
+    "no": 6,
+    "en": "Winter",
+    "zh": "冬季",
+    "Hill Climber": {
+      "wr": ["CN-极速飞飞", 12357],
+      "cr": ["CN-极速飞飞", 12357],
+      "csr": []},
+    "Scooter": {
+      "wr": ["DIESEL🐥", 13149],
+      "cr": ["CN-极速飞飞", 10704],
+      "csr": []},
+    "Bus": {
+      "wr": ["Zorro", 16700],
+      "cr": ["CN-极速飞飞", 10674],
+      "csr": []},
+    "Hill Climber Mk 2": {
+      "wr": ["Zorro", 11594],
+      "cr": ["CN-极速飞飞", 10668],
+      "csr": []},
+    "Tractor": {
+      "wr": ["BlackyNekø~", 13814],
+      "cr": ["CN-极速飞飞", 13197],
+      "csr": []},
+    "Motocross": {
+      "wr": ["CN-极速飞飞", 11594],
+      "cr": ["CN-极速飞飞", 11594],
+      "csr": []},
+    "Dune Buggy": {
+      "wr": ["Zorro", 16561],
+      "cr": ["CN-极速飞飞", 11628],
+      "csr": []},
+    "Sports Car": {
+      "wr": ["[PR]linus", 11113],
+      "cr": ["CN-极速飞飞", 10666],
+      "csr": []},
+    "Monster Truck": {
+      "wr": ["BlackyNekø~", 13241],
+      "cr": ["CN-极速飞飞", 10676],
+      "csr": []},
+    "Rotator": {
+      "wr": ["BlackyNekø~", 12674],
+      "cr": ["CN-极速飞飞", 11110],
+      "csr": []},
+    "Super Diesel": {
+      "wr": ["BlackyNekø~", 16703],
+      "cr": ["三不凡", 13246],
+      "csr": []},
+    "Chopper": {
+      "wr": ["NekoRei+", 16066],
+      "cr": ["CN-极速飞飞", 13211],
+      "csr": []},
+    "Tank": {
+      "wr": ["BlackyNekø~", 19212],
+      "cr": ["飞飞", 16617],
+      "csr": []},
+    "Snowmobile": {
+      "wr": ["Zorro", 16603],
+      "cr": ["CN-极速飞飞", 12814],
+      "csr": []},
+    "Monowheel": {
+      "wr": ["Gamerbro44", 9634],
+      "cr": ["CN-极速飞飞", 4829],
+      "csr": []},
+    "Rally Car": {
+      "wr": ["Zorro", 28452],
+      "cr": ["CN-极速飞飞", 22467],
+      "csr": []},
+    "Formula": {
+      "wr": ["Zorro", 10665],
+      "cr": ["CN-极速飞飞", 10639],
+      "csr": []},
+    "Racing Truck": {
+      "wr": ["BlackyNekø~", 16637],
+      "cr": ["Green wind", 14342],
+      "csr": []},
+    "Hot Rod": {
+      "wr": ["Zorro", 8815],
+      "cr": ["CN-极速飞飞", 8771],
+      "csr": []},
+    "CC-EV": {
+      "wr": ["BadAtHCR", 16649],
+      "cr": ["CN-极速飞飞", 13240],
+      "csr": []},
+    "Superbike": {
+      "wr": ["RS|KnightGP", 9603],
+      "cr": ["CN-极速飞飞", 9587],
+      "csr": []},
+    "Supercar": {
+      "wr": ["Zorro", 10668],
+      "cr": ["CN-极速飞飞", 8771],
+      "csr": []},
+    "Moonlander": {
+      "wr": ["GL|FL¥シ", 6689],
+      "cr": ["CN-极速飞飞", 6592],
+      "csr": []},
+    "update_dt": "2022-02-27"
+  },
+
+  "Mines": {
+    "no": 7,
+    "en": "Mines",
+    "zh": "矿山",
+    "Hill Climber": {
+      "wr": ["Luchino", 11069],
+      "cr": ["CN-极速飞飞", 10821],
+      "csr": []},
+    "Scooter": {
+      "wr": ["Zorro", 10982],
+      "cr": ["CN-极速飞飞", 10960],
+      "csr": []},
+    "Bus": {
+      "wr": ["Zorro", 21569],
+      "cr": ["CN-极速飞飞", 11194],
+      "csr": []},
+    "Hill Climber Mk 2": {
+      "wr": ["Zorro", 11543],
+      "cr": ["CN-极速飞飞", 10339],
+      "csr": []},
+    "Tractor": {
+      "wr": ["Zorro", 14244],
+      "cr": ["CN-极速飞飞", 11534],
+      "csr": []},
+    "Motocross": {
+      "wr": ["Zorro", 10821],
+      "cr": ["CN-极速飞飞", 10002],
+      "csr": []},
+    "Dune Buggy": {
+      "wr": ["Zorro", 21648],
+      "cr": ["☆展翅翱翔☆", 11195],
+      "csr": []},
+    "Sports Car": {
+      "wr": ["Zorro", 10217],
+      "cr": ["CN-极速飞飞", 10002],
+      "csr": []},
+    "Monster Truck": {
+      "wr": ["Zorro", 14642],
+      "cr": ["CN-极速飞飞", 11539],
+      "csr": []},
+    "Rotator": {
+      "wr": ["Zorro", 12255],
+      "cr": ["CN-极速飞飞", 11071],
+      "csr": []},
+    "Super Diesel": {
+      "wr": ["《cute》❄️", 21649],
+      "cr": ["CN-极速飞飞", 14644],
+      "csr": []},
+    "Chopper": {
+      "wr": ["Zorro", 11540],
+      "cr": ["CN-极速飞飞", 10213],
+      "csr": []},
+    "Tank": {
+      "wr": ["Velkyrin", 15433],
+      "cr": ["CN-极速飞飞", 14209],
+      "csr": []},
+    "Snowmobile": {
+      "wr": ["Vereshchak", 11171],
+      "cr": ["CN-极速飞飞", 10967],
+      "csr": []},
+    "Monowheel": {
+      "wr": ["Zorro", 10225],
+      "cr": ["CN-94586", 5925],
+      "csr": []},
+    "Rally Car": {
+      "wr": ["MonoVictor", 24233],
+      "cr": ["CN-极速飞飞", 21694],
+      "csr": []},
+    "Formula": {
+      "wr": ["Zorro", 10002],
+      "cr": ["CN-极速飞飞", 9992],
+      "csr": []},
+    "Racing Truck": {
+      "wr": ["Velkyrin", 18766],
+      "cr": ["CN-中华有为", 10226],
+      "csr": []},
+    "Hot Rod": {
+      "wr": ["CN-极速飞飞", 7069],
+      "cr": ["CN-极速飞飞", 7069],
+      "csr": []},
+    "CC-EV": {
+      "wr": ["Zorro", 39159],
+      "cr": ["CN-极速飞飞", 21708],
+      "csr": []},
+    "Superbike": {
+      "wr": ["SB|HS DaniD", 7075],
+      "cr": ["CN-极速飞飞", 7072],
+      "csr": []},
+    "Supercar": {
+      "wr": ["Zorro", 12151],
+      "cr": ["CN-极速飞飞", 7078],
+      "csr": []},
+    "Moonlander": {
+      "wr": ["GL|FL¥シ", 7931],
+      "cr": ["CN-极速飞飞", 7058],
+      "csr": []},
+    "update_dt": "2022-02-27"
+  },
+
+  "Desert Valley": {
+    "no": 8,
+    "en": "Desert Valley",
+    "zh": "荒漠",
+    "Hill Climber": {
+      "wr": ["Synix=NOOB", 43588],
+      "cr": ["CN-极速飞飞", 10576],
+      "csr": []},
+    "Scooter": {
+      "wr": ["[EE]Neo", 16720],
+      "cr": ["CN-自力传说", 10852],
+      "csr": []},
+    "Bus": {
+      "wr": ["Zorro", 36512],
+      "cr": ["小脚儿翘翘", 16718],
+      "csr": []},
+    "Hill Climber Mk 2": {
+      "wr": ["Zorro", 33821],
+      "cr": ["CN-极速飞飞", 10867],
+      "csr": []},
+    "Tractor": {
+      "wr": ["RL|LÜÇ@$|PA", 18215],
+      "cr": ["CN-极速飞飞", 10127],
+      "csr": []},
+    "Motocross": {
+      "wr": ["LEO LIU", 16722],
+      "cr": ["CN-极速飞飞", 10625],
+      "csr": []},
+    "Dune Buggy": {
+      "wr": ["VIP€R❌", 33819],
+      "cr": ["ralange", 10880],
+      "csr": []},
+    "Sports Car": {
+      "wr": ["SB|Sabeer|DB", 41390],
+      "cr": ["DR|玄冥币啊", 10127],
+      "csr": []},
+    "Monster Truck": {
+      "wr": ["Zorro", 27903],
+      "cr": ["CN-极速飞飞", 10867],
+      "csr": []},
+    "Rotator": {
+      "wr": ["Synix=NOOB", 16641],
+      "cr": ["小脚儿翘翘", 10870],
+      "csr": []},
+    "Super Diesel": {
+      "wr": ["HCR2GUY", 45644],
+      "cr": ["CN-极速飞飞", 16797],
+      "csr": []},
+    "Chopper": {
+      "wr": ["RØB1N", 33823],
+      "cr": ["CN-极速飞飞", 10869],
+      "csr": []},
+    "Tank": {
+      "wr": ["HCR2GUY", 40055],
+      "cr": ["CN-极速飞飞", 11012],
+      "csr": []},
+    "Snowmobile": {
+      "wr": ["Zorro", 10871],
+      "cr": ["CN-94586", 10627],
+      "csr": []},
+    "Monowheel": {
+      "wr": ["Arnaud⚜", 10878],
+      "cr": ["CN-极速飞飞", 10869],
+      "csr": []},
+    "Rally Car": {
+      "wr": ["jerry11", 81174],
+      "cr": ["CN-极速飞飞", 41265],
+      "csr": []},
+    "Formula": {
+      "wr": ["SB|Sabeer~UP", 25065],
+      "cr": ["CN-极速飞飞", 13454],
+      "csr": []},
+    "Racing Truck": {
+      "wr": ["Zorro", 43710],
+      "cr": ["CN-极速飞飞", 14510],
+      "csr": []},
+    "Hot Rod": {
+      "wr": ["Zorro", 16995],
+      "cr": ["CN-自力传说", 10526],
+      "csr": []},
+    "CC-EV": {
+      "wr": ["|Eric|RR", 140746],
+      "cr": ["Zero.io", 65320],
+      "csr": []},
+    "Superbike": {
+      "wr": ["CN-极速飞飞", 10870],
+      "cr": ["CN-极速飞飞", 10870],
+      "csr": []},
+    "Supercar": {
+      "wr": ["Zorro", 27902],
+      "cr": ["CN-极速飞飞", 10869],
+      "csr": []},
+    "Moonlander": {
+      "wr": ["Hubert", 10869],
+      "cr": ["CN-极速飞飞", 10542],
+      "csr": []},
+    "update_dt": "2022-02-28"
+  },
+
+  "Beach": {
+    "no": 9,
+    "en": "Beach",
+    "zh": "沙滩",
+    "Hill Climber": {
+      "wr": ["CN-极速飞飞", 6527],
+      "cr": ["CN-极速飞飞", 6527],
+      "csr": []},
+    "Scooter": {
+      "wr": ["|LK|Synchro", 76185],
+      "cr": ["CN-极速飞飞", 6095],
+      "csr": []},
+    "Bus": {
+      "wr": ["Zorro", 29159],
+      "cr": ["CN-极速飞飞", 13021],
+      "csr": []},
+    "Hill Climber Mk 2": {
+      "wr": ["Zorro", 17836],
+      "cr": ["CN-极速飞飞", 14152],
+      "csr": []},
+    "Tractor": {
+      "wr": ["RS|KnightGP", 22021],
+      "cr": ["CN-极速飞飞", 10835],
+      "csr": []},
+    "Motocross": {
+      "wr": ["RS|KnightGP", 6289],
+      "cr": ["CN-极速飞飞", 6167],
+      "csr": []},
+    "Dune Buggy": {
+      "wr": ["VIP€R❌", 26196],
+      "cr": ["七上八下", 19629],
+      "csr": []},
+    "Sports Car": {
+      "wr": ["[PR]linus", 18855],
+      "cr": ["CN-极速飞飞", 11239],
+      "csr": []},
+    "Monster Truck": {
+      "wr": ["collier", 20567],
+      "cr": ["CN-极速飞飞", 17629],
+      "csr": []},
+    "Rotator": {
+      "wr": ["Zorro", 26175],
+      "cr": ["CN-极速飞飞", 20450],
+      "csr": []},
+    "Super Diesel": {
+      "wr": ["[PR]linus", 63951],
+      "cr": ["CN-极速飞飞", 32948],
+      "csr": []},
+    "Chopper": {
+      "wr": ["BlackyNekø~", 21973],
+      "cr": ["CN-极速飞飞", 21443],
+      "csr": []},
+    "Tank": {
+      "wr": ["Petros🇬", 47303],
+      "cr": ["CN-中华有为", 21958],
+      "csr": []},
+    "Snowmobile": {
+      "wr": ["Zorro", 21826],
+      "cr": ["CN-极速飞飞", 11255],
+      "csr": []},
+    "Monowheel": {
+      "wr": ["Zorro", 17936],
+      "cr": ["CN-极速飞飞", 6943],
+      "csr": []},
+    "Rally Car": {
+      "wr": ["🔪🤘🏜️", 47155],
+      "cr": ["CN-极速飞飞", 39239],
+      "csr": []},
+    "Formula": {
+      "wr": ["CN-极速飞飞", 5670],
+      "cr": ["CN-极速飞飞", 5670],
+      "csr": []},
+    "Racing Truck": {
+      "wr": ["IN~सैकत", 47345],
+      "cr": ["CN-极速飞飞", 47343],
+      "csr": []},
+    "Hot Rod": {
+      "wr": ["RS|KnightGP", 6474],
+      "cr": ["极速飞飞", 6460],
+      "csr": []},
+    "CC-EV": {
+      "wr": ["Zorro", 85305],
+      "cr": ["萌新の自我修炼", 26196],
+      "csr": []},
+    "Superbike": {
+      "wr": ["Zorro", 18841],
+      "cr": ["CN-极速飞飞", 17654],
+      "csr": []},
+    "Supercar": {
+      "wr": ["Zorro", 7366],
+      "cr": ["CN-极速飞飞", 6477],
+      "csr": []},
+    "Moonlander": {
+      "wr": ["Zorro", 6133],
+      "cr": ["极速飞飞", 5661],
+      "csr": []},
+    "update_dt": "2022-02-28"
+  },
+
+  "Backwater Bog": {
+    "no": 10,
+    "en": "Backwater Bog",
+    "zh": "泥潭",
+    "Hill Climber": {
+      "wr": ["Winter", 18316],
+      "cr": ["CN-极速飞飞", 17568],
+      "csr": []},
+    "Scooter": {
+      "wr": ["BlackyNekø~", 10989],
+      "cr": ["CN-极速飞飞", 4662],
+      "csr": []},
+    "Bus": {
+      "wr": ["Zorro", 21090],
+      "cr": ["CN-自力传说", 11735],
+      "csr": []},
+    "Hill Climber Mk 2": {
+      "wr": ["BlackyNekø~", 17713],
+      "cr": ["CN-极速飞飞", 10390],
+      "csr": []},
+    "Tractor": {
+      "wr": ["Zorro", 21076],
+      "cr": ["CN-极速飞飞", 14928],
+      "csr": []},
+    "Motocross": {
+      "wr": ["Zorro", 14325],
+      "cr": ["CN-极速飞飞", 10987],
+      "csr": []},
+    "Dune Buggy": {
+      "wr": ["BlackyNekø~", 18522],
+      "cr": ["七上八下", 14859],
+      "csr": []},
+    "Sports Car": {
+      "wr": ["GL|FL¥シ", 14901],
+      "cr": ["CN-极速飞飞", 8257],
+      "csr": []},
+    "Monster Truck": {
+      "wr": ["Zorro", 21076],
+      "cr": ["CN-极速飞飞", 16963],
+      "csr": []},
+    "Rotator": {
+      "wr": ["Zorro", 17016],
+      "cr": ["CN-极速飞飞", 14919],
+      "csr": []},
+    "Super Diesel": {
+      "wr": ["Winter", 41150],
+      "cr": ["CN-极速飞飞", 21912],
+      "csr": []},
+    "Chopper": {
+      "wr": ["[PR]linus", 17715],
+      "cr": ["CN-极速飞飞", 14915],
+      "csr": []},
+    "Tank": {
+      "wr": ["Petros🇬", 29819],
+      "cr": ["CN-极速飞飞", 29762],
+      "csr": []},
+    "Snowmobile": {
+      "wr": ["Zorro", 17015],
+      "cr": ["CN-极速飞飞", 15517],
+      "csr": []},
+    "Monowheel": {
+      "wr": ["Gamerbro44", 8229],
+      "cr": ["CN-极速飞飞", 5036],
+      "csr": []},
+    "Rally Car": {
+      "wr": ["Winter", 42415],
+      "cr": ["CN-极速飞飞", 31746],
+      "csr": []},
+    "Formula": {
+      "wr": ["GL|FL¥シ", 11638],
+      "cr": ["CN-极速飞飞", 8528],
+      "csr": []},
+    "Racing Truck": {
+      "wr": ["Zorro", 21907],
+      "cr": ["CN-极速飞飞", 21073],
+      "csr": []},
+    "Hot Rod": {
+      "wr": ["Zorro", 8260],
+      "cr": ["CN-极速飞飞", 7243],
+      "csr": []},
+    "CC-EV": {
+      "wr": ["Zorro", 45079],
+      "cr": ["CN-极速飞飞", 42346],
+      "csr": []},
+    "Superbike": {
+      "wr": ["Zorro", 11029],
+      "cr": ["CN-极速飞飞", 10960],
+      "csr": []},
+    "Supercar": {
+      "wr": ["папа2", 13442],
+      "cr": ["CN-极速飞飞", 7245],
+      "csr": []},
+    "Moonlander": {
+      "wr": ["GL|FL¥シ", 3762],
+      "cr": ["CN-极速飞飞", 3760],
+      "csr": []},
+    "update_dt": "2022-02-28"
+  },
+
+  "Racer Glacier": {
+    "no": 11,
+    "en": "Racer Glacier",
+    "zh": "车手冰川",
+    "Hill Climber": {
+      "wr": ["RS|KnightGP", 8821],
+      "cr": ["CN-极速飞飞", 8796],
+      "csr": []},
+    "Scooter": {
+      "wr": ["RS|KnightGP", 8044],
+      "cr": ["CN-极速飞飞", 7479],
+      "csr": []},
+    "Bus": {
+      "wr": ["Zorro", 10221],
+      "cr": ["CN-极速飞飞", 10207],
+      "csr": []},
+    "Hill Climber Mk 2": {
+      "wr": ["Zorro", 8822],
+      "cr": ["CN-极速飞飞", 8314],
+      "csr": []},
+    "Tractor": {
+      "wr": ["Zorro", 9300],
+      "cr": ["CN-极速飞飞", 8825],
+      "csr": []},
+    "Motocross": {
+      "wr": ["[PR]linus", 7902],
+      "cr": ["CN-极速飞飞", 7340],
+      "csr": []},
+    "Dune Buggy": {
+      "wr": ["Zorro", 11133],
+      "cr": ["CN-极速飞飞", 10001],
+      "csr": []},
+    "Sports Car": {
+      "wr": ["Zorro", 8376],
+      "cr": ["CN-极速飞飞", 7898],
+      "csr": []},
+    "Monster Truck": {
+      "wr": ["GL|FL¥シ", 8847],
+      "cr": ["CN-极速飞飞", 8791],
+      "csr": []},
+    "Rotator": {
+      "wr": ["[PR]linus", 8899],
+      "cr": ["CN-极速飞飞", 8823],
+      "csr": []},
+    "Super Diesel": {
+      "wr": ["Zorro", 11134],
+      "cr": ["CN-极速飞飞", 10024],
+      "csr": []},
+    "Chopper": {
+      "wr": ["[PR]linus", 9352],
+      "cr": ["CN-极速飞飞", 9269],
+      "csr": []},
+    "Tank": {
+      "wr": ["Velkyrin", 11133],
+      "cr": ["CN-极速飞飞", 10005],
+      "csr": []},
+    "Snowmobile": {
+      "wr": ["vonat örült", 8893],
+      "cr": ["CN-极速飞飞", 8376],
+      "csr": []},
+    "Monowheel": {
+      "wr": ["Gamerbro44", 7362],
+      "cr": ["CN-极速飞飞", 5491],
+      "csr": []},
+    "Rally Car": {
+      "wr": ["Zorro", 19872],
+      "cr": ["CN-极速飞飞", 17826],
+      "csr": []},
+    "Formula": {
+      "wr": ["CN-极速飞飞", 7899],
+      "cr": ["CN-极速飞飞", 7899],
+      "csr": []},
+    "Racing Truck": {
+      "wr": ["[PR]linus", 11579],
+      "cr": ["CN-极速飞飞", 10320],
+      "csr": []},
+    "Hot Rod": {
+      "wr": ["Zorro", 7341],
+      "cr": ["CN-极速飞飞", 7259],
+      "csr": []},
+    "CC-EV": {
+      "wr": ["[PR]linus", 11411],
+      "cr": ["CN-极速飞飞", 10474],
+      "csr": []},
+    "Superbike": {
+      "wr": ["Zorro", 8319],
+      "cr": ["CN-极速飞飞", 7339],
+      "csr": []},
+    "Supercar": {
+      "wr": ["Zorro", 7898],
+      "cr": ["CN-极速飞飞", 7348],
+      "csr": []},
+    "Moonlander": {
+      "wr": ["GL|FL¥シ", 5783],
+      "cr": ["CN-极速飞飞", 5490],
+      "csr": []},
+    "update_dt": "2022-03-01"
+  },
+
+  "Patchwork Plant": {
+    "no": 12,
+    "en": "Patchwork Plant",
+    "zh": "拼凑工厂",
+    "Hill Climber": {
+      "wr": ["RS|KnightGP", 9303],
+      "cr": ["CN-极速飞飞", 9177],
+      "csr": []},
+    "Scooter": {
+      "wr": ["Zorro", 9803],
+      "cr": ["CN-极速飞飞", 5420],
+      "csr": []},
+    "Bus": {
+      "wr": ["CN-极速飞飞", 10806],
+      "cr": ["CN-极速飞飞", 10806],
+      "csr": []},
+    "Hill Climber Mk 2": {
+      "wr": ["Zorro", 9303],
+      "cr": ["CN-极速飞飞", 8342],
+      "csr": []},
+    "Tractor": {
+      "wr": ["Velkyrin", 9229],
+      "cr": ["CN-极速飞飞", 8239],
+      "csr": []},
+    "Motocross": {
+      "wr": ["RS|KnightGP", 8572],
+      "cr": ["CN-极速飞飞", 5416],
+      "csr": []},
+    "Dune Buggy": {
+      "wr": ["Zorro", 10465],
+      "cr": ["CN-极速飞飞", 10372],
+      "csr": []},
+    "Sports Car": {
+      "wr": ["Zorro", 9336],
+      "cr": ["CN-极速飞飞", 8804],
+      "csr": []},
+    "Monster Truck": {
+      "wr": ["Zorro", 10416],
+      "cr": ["CN-极速飞飞", 10381],
+      "csr": []},
+    "Rotator": {
+      "wr": ["Zorro", 10469],
+      "cr": ["CN-极速飞飞", 10419],
+      "csr": []},
+    "Super Diesel": {
+      "wr": ["Zorro", 14089],
+      "cr": ["CN-极速飞飞", 12256],
+      "csr": []},
+    "Chopper": {
+      "wr": ["Zorro", 10463],
+      "cr": ["CN-极速飞飞", 8299],
+      "csr": []},
+    "Tank": {
+      "wr": ["Velkyrin", 11611],
+      "cr": ["CN-极速飞飞", 10372],
+      "csr": []},
+    "Snowmobile": {
+      "wr": ["Kacp⚡", 8579],
+      "cr": ["CN-极速飞飞", 6044],
+      "csr": []},
+    "Monowheel": {
+      "wr": ["Gamerbro44", 8213],
+      "cr": ["CN-极速飞飞", 4035],
+      "csr": []},
+    "Rally Car": {
+      "wr": ["Petros🇬", 12831],
+      "cr": ["CN-极速飞飞", 10988],
+      "csr": []},
+    "Formula": {
+      "wr": ["[PR]linus", 9121],
+      "cr": ["CN-极速飞飞", 5423],
+      "csr": []},
+    "Racing Truck": {
+      "wr": ["Velkyrin", 12188],
+      "cr": ["CN-极速飞飞", 12162],
+      "csr": []},
+    "Hot Rod": {
+      "wr": ["RS|KnightGP", 5533],
+      "cr": ["CN-极速飞飞", 5412],
+      "csr": []},
+    "CC-EV": {
+      "wr": ["Zorro", 14146],
+      "cr": ["CN-极速飞飞", 11779],
+      "csr": []},
+    "Superbike": {
+      "wr": ["[PR]linus", 4915],
+      "cr": ["CN-极速飞飞", 4914],
+      "csr": []},
+    "Supercar": {
+      "wr": ["Zorro", 9171],
+      "cr": ["CN-极速飞飞", 5531],
+      "csr": []},
+    "Moonlander": {
+      "wr": ["GL|FL¥シ", 5395],
+      "cr": ["CN-极速飞飞", 5336],
+      "csr": []},
+    "update_dt": "2022-03-01"
+  },
+
+  "Gloomvale": {
+    "no": 13,
+    "en": "Gloomvale",
+    "zh": "格洛维尔",
+    "Hill Climber": {
+      "wr": ["RS|KnightGP", 10155],
+      "cr": ["CN-极速飞飞", 10154],
+      "csr": []},
+    "Scooter": {
+      "wr": ["Driver05", 9196],
+      "cr": ["CN-极速飞飞", 8587],
+      "csr": []},
+    "Bus": {
+      "wr": ["CN-极速飞飞", 10156],
+      "cr": ["CN-极速飞飞", 10156],
+      "csr": []},
+    "Hill Climber Mk 2": {
+      "wr": ["Luchino", 10156],
+      "cr": ["CN-极速飞飞", 10117],
+      "csr": []},
+    "Tractor": {
+      "wr": ["Zorro", 10110],
+      "cr": ["CN-极速飞飞", 7401],
+      "csr": []},
+    "Motocross": {
+      "wr": ["RS|KnightGP", 9058],
+      "cr": ["CN-极速飞飞", 8484],
+      "csr": []},
+    "Dune Buggy": {
+      "wr": ["Zorro", 10446],
+      "cr": ["CN-极速飞飞", 9724],
+      "csr": []},
+    "Sports Car": {
+      "wr": ["|M|ŁÁRS", 8512],
+      "cr": ["CN-极速飞飞", 8104],
+      "csr": []},
+    "Monster Truck": {
+      "wr": ["Zorro", 10446],
+      "cr": ["CN-极速飞飞", 7484],
+      "csr": []},
+    "Rotator": {
+      "wr": ["GL|FL¥シ", 9724],
+      "cr": ["CN-极速飞飞", 9158],
+      "csr": []},
+    "Super Diesel": {
+      "wr": ["[PR]linus", 11895],
+      "cr": ["CN-极速飞飞", 11814],
+      "csr": []},
+    "Chopper": {
+      "wr": ["Zorro", 10446],
+      "cr": ["CN-极速飞飞", 11814],
+      "csr": []},
+    "Tank": {
+      "wr": ["Zorro", 10116],
+      "cr": ["CN-极速飞飞", 9194],
+      "csr": []},
+    "Snowmobile": {
+      "wr": ["VIP€R❌", 8341],
+      "cr": ["CN-极速飞飞", 7508],
+      "csr": []},
+    "Monowheel": {
+      "wr": ["|TR|kaos", 7914],
+      "cr": ["CN-极速飞飞", 7416],
+      "csr": []},
+    "Rally Car": {
+      "wr": ["Zorro", 11885],
+      "cr": ["CN-极速飞飞", 11099],
+      "csr": []},
+    "Formula": {
+      "wr": ["Luchino", 9869],
+      "cr": ["CN-极速飞飞", 9723],
+      "csr": []},
+    "Racing Truck": {
+      "wr": ["Luchino", 10446],
+      "cr": ["CN-极速飞飞", 10153],
+      "csr": []},
+    "Hot Rod": {
+      "wr": ["Zorro", 7868],
+      "cr": ["CN-极速飞飞", 7414],
+      "csr": []},
+    "CC-EV": {
+      "wr": ["Zorro", 11897],
+      "cr": ["CN-极速飞飞", 11818],
+      "csr": []},
+    "Superbike": {
+      "wr": ["🅱️r¥@𝛑❌", 6950],
+      "cr": ["CN-极速飞飞", 6906],
+      "csr": []},
+    "Supercar": {
+      "wr": ["RS|KnightGP", 8588],
+      "cr": ["CN-极速飞飞", 7508],
+      "csr": []},
+    "Moonlander": {
+      "wr": ["Luchino", 6381],
+      "cr": ["CN-极速飞飞", 5859],
+      "csr": []},
+    "update_dt": "2022-03-01"
+  },
+
+  "Sky Rock Outpost": {
+    "no": 14,
+    "en": "Sky Rock Outpost",
+    "zh": "陨石哨站",
+    "Hill Climber": {
+      "wr": ["Winter", 35664],
+      "cr": ["CN-极速飞飞", 19142],
+      "csr": []},
+    "Scooter": {
+      "wr": ["Zorro", 12777],
+      "cr": ["CN-极速飞飞", 11069],
+      "csr": []},
+    "Bus": {
+      "wr": ["HCR2GUY", 13618],
+      "cr": ["CN-极速飞飞", 13462],
+      "csr": []},
+    "Hill Climber Mk 2": {
+      "wr": ["SunnyAkaMD", 13460],
+      "cr": ["CN-极速飞飞", 12776],
+      "csr": []},
+    "Tractor": {
+      "wr": ["Luchino", 14857],
+      "cr": ["CN-极速飞飞", 12347],
+      "csr": []},
+    "Motocross": {
+      "wr": ["CN-极速飞飞", 12749],
+      "cr": ["CN-极速飞飞", 12749],
+      "csr": []},
+    "Dune Buggy": {
+      "wr": ["[PR]linus", 19248],
+      "cr": ["CN-极速飞飞", 12296],
+      "csr": []},
+    "Sports Car": {
+      "wr": ["[PR]linus", 23119],
+      "cr": ["CN-极速飞飞", 15075],
+      "csr": []},
+    "Monster Truck": {
+      "wr": ["RS|KnightGP", 9412],
+      "cr": ["CN-极速飞飞", 9344],
+      "csr": []},
+    "Rotator": {
+      "wr": ["CN-极速飞飞", 9386],
+      "cr": ["CN-极速飞飞", 9386],
+      "csr": []},
+    "Super Diesel": {
+      "wr": ["Yonatanking", 22267],
+      "cr": ["CN-极速飞飞", 13300],
+      "csr": []},
+    "Chopper": {
+      "wr": ["Zorro", 11111],
+      "cr": ["CN-极速飞飞", 10021],
+      "csr": []},
+    "Tank": {
+      "wr": ["Zorro", 13315],
+      "cr": ["CN-极速飞飞", 12413],
+      "csr": []},
+    "Snowmobile": {
+      "wr": ["CN-极速飞飞", 9383],
+      "cr": ["CN-极速飞飞", 9383],
+      "csr": []},
+    "Monowheel": {
+      "wr": ["[PR]linus", 8706],
+      "cr": ["CN-极速飞飞", 5290],
+      "csr": []},
+    "Rally Car": {
+      "wr": ["Winter", 35661],
+      "cr": ["CN-极速飞飞", 24095],
+      "csr": []},
+    "Formula": {
+      "wr": ["RS|KnightGP", 16056],
+      "cr": ["CN-极速飞飞", 12743],
+      "csr": []},
+    "Racing Truck": {
+      "wr": ["RS|KnightGP", 13321],
+      "cr": ["CN-极速飞飞", 12410],
+      "csr": []},
+    "Hot Rod": {
+      "wr": ["Zorro", 9320],
+      "cr": ["CN-极速飞飞", 9317],
+      "csr": []},
+    "CC-EV": {
+      "wr": ["Zorro", 36279],
+      "cr": ["CN-极速飞飞", 11069],
+      "csr": []},
+    "Superbike": {
+      "wr": ["CN-极速飞飞", 9281],
+      "cr": ["CN-极速飞飞", 9281],
+      "csr": []},
+    "Supercar": {
+      "wr": ["Zorro", 9390],
+      "cr": ["CN-极速飞飞", 9222],
+      "csr": []},
+    "Moonlander": {
+      "wr": ["Zorro", 8368],
+      "cr": ["CN-极速飞飞", 8346],
+      "csr": []},
+    "update_dt": "2022-03-01"
+  },
+
+  "Forest Trials": {
+    "no": 15,
+    "en": "Forest Trials",
+    "zh": "森林审判",
+    "Hill Climber": {
+      "wr": ["RS|KnightGP", 2763],
+      "cr": ["CN-极速飞飞", 2734],
+      "csr": []},
+    "Scooter": {
+      "wr": ["[PR]linus", 2729],
+      "cr": ["CN-极速飞飞", 2441],
+      "csr": []},
+    "Bus": {
+      "wr": ["[PR]linus", 4019],
+      "cr": ["CN-极速飞飞", 3091],
+      "csr": []},
+    "Hill Climber Mk 2": {
+      "wr": ["RS|KnightGP", 2765],
+      "cr": ["CN-极速飞飞", 2296],
+      "csr": []},
+    "Tractor": {
+      "wr": ["CN-极速飞飞", 2810],
+      "cr": ["CN-极速飞飞", 2810],
+      "csr": []},
+    "Motocross": {
+      "wr": ["RS|KnightGP", 2403],
+      "cr": ["CN-极速飞飞", 2049],
+      "csr": []},
+    "Dune Buggy": {
+      "wr": ["[PR]linus", 4593],
+      "cr": ["CN-极速飞飞", 4230],
+      "csr": []},
+    "Sports Car": {
+      "wr": ["[PR]linus", 2810],
+      "cr": ["CN-极速飞飞", 2342],
+      "csr": []},
+    "Monster Truck": {
+      "wr": ["BlackyNekø~", 2806],
+      "cr": ["CN-极速飞飞", 2760],
+      "csr": []},
+    "Rotator": {
+      "wr": ["HCR2GUY", 3306],
+      "cr": ["CN-极速飞飞", 3206],
+      "csr": []},
+    "Super Diesel": {
+      "wr": ["[PR]linus", 4977],
+      "cr": ["CN-极速飞飞", 4226],
+      "csr": []},
+    "Chopper": {
+      "wr": ["|DC|╎-╎3DG3", 2413],
+      "cr": ["CN-极速飞飞", 2392],
+      "csr": []},
+    "Tank": {
+      "wr": ["CN-极速飞飞", 4159],
+      "cr": ["CN-极速飞飞", 4159],
+      "csr": []},
+    "Snowmobile": {
+      "wr": ["Br¥@𝛑", 2830],
+      "cr": ["CN-极速飞飞", 2808],
+      "csr": []},
+    "Monowheel": {
+      "wr": ["[MW]Oscar", 2403],
+      "cr": ["CN-极速飞飞", 2021],
+      "csr": []},
+    "Rally Car": {
+      "wr": ["[PR]linus", 5106],
+      "cr": ["CN-极速飞飞", 5000],
+      "csr": []},
+    "Formula": {
+      "wr": ["RS|KnightGP", 2403],
+      "cr": ["CN-极速飞飞", 2393],
+      "csr": []},
+    "Racing Truck": {
+      "wr": ["CN-极速飞飞", 3307],
+      "cr": ["CN-极速飞飞", 3307],
+      "csr": []},
+    "Hot Rod": {
+      "wr": ["RS|KnightGP", 2404],
+      "cr": ["CN-极速飞飞", 2392],
+      "csr": []},
+    "CC-EV": {
+      "wr": ["Zorro", 4979],
+      "cr": ["CN-极速飞飞", 4826],
+      "csr": []},
+    "Superbike": {
+      "wr": ["Vereshchak", 2404],
+      "cr": ["CN-极速飞飞", 2393],
+      "csr": []},
+    "Supercar": {
+      "wr": ["RS|KnightGP", 2656],
+      "cr": ["CN-极速飞飞", 2392],
+      "csr": []},
+    "Moonlander": {
+      "wr": ["GL|FL¥シ", 1648],
+      "cr": ["CN-极速飞飞", 1034],
+      "csr": []},
+    "update_dt": "2022-03-01"
+  },
+
+  "Intense City": {
+    "no": 16,
+    "en": "Intense City",
+    "zh": "激情城镇",
+    "Hill Climber": {
+      "wr": ["RS|KnightGP", 2773],
+      "cr": ["CN-极速飞飞", 2753],
+      "csr": []},
+    "Scooter": {
+      "wr": ["RS|KnightGP", 2759],
+      "cr": ["CN-极速飞飞", 2160],
+      "csr": []},
+    "Bus": {
+      "wr": ["Zorro", 4721],
+      "cr": ["CN-极速飞飞", 3762],
+      "csr": []},
+    "Hill Climber Mk 2": {
+      "wr": ["[PR]linus", 3400],
+      "cr": ["CN-极速飞飞", 2740],
+      "csr": []},
+    "Tractor": {
+      "wr": ["IN~सैकत", 2903],
+      "cr": ["CN-极速飞飞", 2568],
+      "csr": []},
+    "Motocross": {
+      "wr": ["[PR]linus", 2039],
+      "cr": ["CN-极速飞飞", 1764],
+      "csr": []},
+    "Dune Buggy": {
+      "wr": ["[PR]linus", 5062],
+      "cr": ["CN-极速飞飞", 4741],
+      "csr": []},
+    "Sports Car": {
+      "wr": ["[PR]linus", 2725],
+      "cr": ["CN-极速飞飞", 2320],
+      "csr": []},
+    "Monster Truck": {
+      "wr": ["[PR]linus", 3772],
+      "cr": ["CN-极速飞飞", 2551],
+      "csr": []},
+    "Rotator": {
+      "wr": ["[PR]linus", 3760],
+      "cr": ["CN-极速飞飞", 3760],
+      "csr": []},
+    "Super Diesel": {
+      "wr": ["Zorro", 4741],
+      "cr": ["CN-极速飞飞", 4538],
+      "csr": []},
+    "Chopper": {
+      "wr": ["[PR]linus", 3752],
+      "cr": ["CN-极速飞飞", 2760],
+      "csr": []},
+    "Tank": {
+      "wr": ["[PR]linus", 4664],
+      "cr": ["CN-极速飞飞", 3764],
+      "csr": []},
+    "Snowmobile": {
+      "wr": ["Papperellix", 2703],
+      "cr": ["CN-极速飞飞", 2663],
+      "csr": []},
+    "Monowheel": {
+      "wr": ["Zorro", 3268],
+      "cr": ["CN-极速飞飞", 2167],
+      "csr": []},
+    "Rally Car": {
+      "wr": ["Zorro", 5937],
+      "cr": ["CN-极速飞飞", 5001],
+      "csr": []},
+    "Formula": {
+      "wr": ["CN-极速飞飞", 2392],
+      "cr": ["CN-极速飞飞", 2392],
+      "csr": []},
+    "Racing Truck": {
+      "wr": ["Zorro", 4722],
+      "cr": ["CN-极速飞飞", 3596],
+      "csr": []},
+    "Hot Rod": {
+      "wr": ["|DC|╎-╎3DG3", 4245],
+      "cr": ["CN-极速飞飞", 3900],
+      "csr": []},
+    "CC-EV": {
+      "wr": ["Zorro", 4744],
+      "cr": ["CN-极速飞飞", 4253],
+      "csr": []},
+    "Superbike": {
+      "wr": ["[PR]linus", 2366],
+      "cr": ["CN-极速飞飞", 2260],
+      "csr": []},
+    "Supercar": {
+      "wr": ["[PR]linus", 4254],
+      "cr": ["CN-极速飞飞", 2975],
+      "csr": []},
+    "Moonlander": {
+      "wr": ["FLYシ", 2275],
+      "cr": ["CN-极速飞飞", 2173],
+      "csr": []},
+    "update_dt": "2022-03-01"
+  },
+
+  "Raging Winter": {
+    "no": 17,
+    "en": "Raging Winter",
+    "zh": "寒冷冬日",
+    "Hill Climber": {
+      "wr": ["PRinzDog", 3488],
+      "cr": ["CN-极速飞飞", 3487],
+      "csr": []},
+    "Scooter": {
+      "wr": ["Zorro", 3480],
+      "cr": ["CN-极速飞飞", 3355],
+      "csr": []},
+    "Bus": {
+      "wr": ["[PR]linus", 3792],
+      "cr": ["CN-极速飞飞", 3695],
+      "csr": []},
+    "Hill Climber Mk 2": {
+      "wr": ["Zorro", 3507],
+      "cr": ["CN-极速飞飞", 3480],
+      "csr": []},
+    "Tractor": {
+      "wr": ["wrforjoker", 3478],
+      "cr": ["CN-极速飞飞", 3354],
+      "csr": []},
+    "Motocross": {
+      "wr": ["CN-极速飞飞", 3112],
+      "cr": ["CN-极速飞飞", 3112],
+      "csr": []},
+    "Dune Buggy": {
+      "wr": ["CN-极速飞飞", 3788],
+      "cr": ["CN-极速飞飞", 3788],
+      "csr": []},
+    "Sports Car": {
+      "wr": ["Doohickey", 3013],
+      "cr": ["CN-极速飞飞", 3010],
+      "csr": []},
+    "Monster Truck": {
+      "wr": ["Zorro", 3507],
+      "cr": ["CN-极速飞飞", 3445],
+      "csr": []},
+    "Rotator": {
+      "wr": ["Zorro", 3203],
+      "cr": ["CN-极速飞飞", 3203],
+      "csr": []},
+    "Super Diesel": {
+      "wr": ["[PR]linus", 3683],
+      "cr": ["CN-极速飞飞", 3507],
+      "csr": []},
+    "Chopper": {
+      "wr": ["[PR]linus", 3509],
+      "cr": ["CN-极速飞飞", 3506],
+      "csr": []},
+    "Tank": {
+      "wr": ["CN-极速飞飞", 3509],
+      "cr": ["CN-极速飞飞", 3509],
+      "csr": []},
+    "Snowmobile": {
+      "wr": ["Dr.🐥", 3355],
+      "cr": ["CN-极速飞飞", 3355],
+      "csr": []},
+    "Monowheel": {
+      "wr": ["Zorro", 3509],
+      "cr": ["CN-极速飞飞", 3353],
+      "csr": []},
+    "Rally Car": {
+      "wr": ["[PR]linus", 4387],
+      "cr": ["CN-极速飞飞", 4094],
+      "csr": []},
+    "Formula": {
+      "wr": ["CN-极速飞飞", 3599],
+      "cr": ["CN-极速飞飞", 3599],
+      "csr": []},
+    "Racing Truck": {
+      "wr": ["Zorro", 3507],
+      "cr": ["CN-极速飞飞", 3506],
+      "csr": []},
+    "Hot Rod": {
+      "wr": ["gudjobducky", 3359],
+      "cr": ["CN-极速飞飞", 3355],
+      "csr": []},
+    "CC-EV": {
+      "wr": ["[PR]linus", 3719],
+      "cr": ["CN-极速飞飞", 3508],
+      "csr": []},
+    "Superbike": {
+      "wr": ["[PR]linus", 3359],
+      "cr": ["CN-极速飞飞", 3352],
+      "csr": []},
+    "Supercar": {
+      "wr": ["YTtryWR HCR2", 3539],
+      "cr": ["CN-极速飞飞", 3354],
+      "csr": []},
+    "Moonlander": {
+      "wr": ["[PR]linus", 2164],
+      "cr": ["CN-极速飞飞", 2164],
+      "csr": []},
+    "update_dt": "2022-03-01"
+  }
+}

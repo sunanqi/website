@@ -1,0 +1,768 @@
+{
+  "Hill Climb Cup": {
+    "no": 1,
+    "en": ["Hill Climb Cup", "Bottom Gear", "No Skidding"],
+    "zh": ["登山之路", "新手上路", "小心路滑"],
+    "wr_owner": ["RS CÆSAR", "RS|Darv"],
+    "wr": [11.913, 11.774],
+    "cr_owner": ["CN|DR-HUAWEI", "CN|DR-567"],
+    "cr": [12.095, 12.065],
+    "csr_owner": [],
+    "csr": [],
+    "update_dt": "2022-02-24"
+  },
+
+  "Big Air Cup": {
+    "no": 2,
+    "en": ["Big Air Cup", "Landing Drive", "Seesaw Road", "Big Air"],
+    "zh": ["空中飞车", "飞跃群山", "锯齿之路", "空中飞车"],
+    "wr_owner": ["SB|Semda","RS|FØX™","RS|xerxesUP"],
+    "wr": [10.126,10.214,9.216],
+    "cr_owner": ["CN|PR-five","CN|PR-five","hacker"],
+    "cr": [10.284,10.470,9.513],
+    "csr_owner": [],
+    "csr": [],
+    "update_dt": "2022-02-24"
+  },
+
+  "Dark Roads": {
+    "no": 3,
+    "en": ["Dark Roads", "Hills Ahead", "Visions of Victory", "Hollow Road"],
+    "zh": ["丛林历险", "前方群山", "凯旋之路", "凹路"],
+    "wr_owner": ["MonoVictor","[PR]wild","[NK]MØNST3R"],
+    "wr": [9.47,10.175,9.609],
+    "cr_owner": ["竹子","TC|卡卡罗特","shadow"],
+    "cr": [10.109,10.316,9.837],
+    "csr_owner": [],
+    "csr": [],
+    "update_dt": "2022-02-24"
+  },
+
+  "Downhill Trials": {
+    "no": 4,
+    "en": ["Downhill Trials", "Trial of Fall", "Trial of Courage", "Trial of Balance"],
+    "zh": ["下坡试验", "下坡考验", "勇气试验", "平衡测试"],
+    "wr_owner": ["RS|Lol|DB","[PR]mitzi TB","[PR]Pie·Ø·My"],
+    "wr": [7.932,7.115,6.844],
+    "cr_owner": ["CN|PR-five","CN|PR-five","CN|PR-five"],
+    "cr": [8.023,7.618,6.986],
+    "csr_owner": [],
+    "csr": [],
+    "update_dt": "2022-02-24"
+  },
+
+  "Cup in the Woods": {
+    "no": 5,
+    "en": ["Cup in the Woods", "Forbidden Forest", "Captain's Log", "The Pond"],
+    "zh": ["森林杯赛", "黑暗森林", "原木堆", "畅游鱼塘"],
+    "wr_owner": ["SB|drackon","AU|Burim|RS","$B|abuyazan"],
+    "wr": [6.940,6.974,9.711],
+    "cr_owner": ["WF=FW","CN|DR-Noob","DR|SHADOW"],
+    "cr": [7.118,7.208,9.828],
+    "csr_owner": [],
+    "csr": [],
+    "update_dt": "2022-02-24"
+  },
+
+  "First Snow": {
+    "no": 6,
+    "en": ["First Snow", "Let it Snow", "Slippery Slope", "Crossroads"],
+    "zh": ["第一场雪", "冰天雪地", "急速滑坡", "十字路口"],
+    "wr_owner": ["RS|Heaven","SB|drackon","RS|xerxesUP"],
+    "wr": [13.409,12.439,11.803],
+    "cr_owner": ["DR-567","[DR]fecm","DR|SHADOW"],
+    "cr": [13.846,12.876,12.746],
+    "csr_owner": [],
+    "csr": [],
+    "update_dt": "2022-02-24"
+  },
+
+  "Desert Cup": {
+    "no": 7,
+    "en": ["Desert Cup", "Sunburnt", "Tumbleweeds", "Road to Heck"],
+    "zh": ["荒漠赛道", "荒漠洞穴", "风滚草道", "荒漠公路"],
+    "wr_owner": ["carlos me","RS||R vs D","RS|Danpen|SN"],
+    "wr": [13.373,10.844,11.025],
+    "cr_owner": ["yeah","DR-无凡","DaQi VS xiao"],
+    "cr": [13.915,11.066,11.505],
+    "csr_owner": [],
+    "csr": [],
+    "update_dt": "2022-02-24"
+  },
+
+  "Challenger Cup": {
+    "no": 8,
+    "en": ["Challenger Cup", "Barn Ride", "Base Jump", "Silo Showdown"],
+    "zh": ["勇者行动", "郊外谷仓", "高空飞跃", "粮仓对决"],
+    "wr_owner": ["SN|Carlos","PR||HezTimz","SB|Darv"],
+    "wr": [11.888,10.286,11.845],
+    "cr_owner": ["CN-极速飞飞","DR-takeieasy","CN|PR-five"],
+    "cr": [12.459,11.303,12.322],
+    "csr_owner": [],
+    "csr": [],
+    "update_dt": "2022-02-24"
+  },
+
+  "Beach Cup": {
+    "no": 9,
+    "en": ["Beach Cup", "The Dunes", "Beach Boys", "Seaside"],
+    "zh": ["碧海沙滩", "沙丘地带", "沙滩男孩", "海滨胜地"],
+    "wr_owner": ["SBzz|Dudemon","PL|Toty","RS||Rony||UP"],
+    "wr": [10.831,10.835,10.804],
+    "cr_owner": ["CN-业火救济","CN|PR-five","DR|玄冥币啊"],
+    "cr": [11.010,11.402,11.152],
+    "csr_owner": [],
+    "csr": [],
+    "update_dt": "2022-02-24"
+  },
+
+  "Countryside Cup": {
+    "no": 10,
+    "en": ["Countryside Cup", "Showgrounds", "Four-Wheel Park", "Circuit 9"],
+    "zh": ["田园风光", "展览会场", "四驱公园", "第9环道"],
+    "wr_owner": ["BR|JAGUAR","[PR]Fastest","SN|PrØteCT"],
+    "wr": [10.548,12.448,11.716],
+    "cr_owner": ["DR-567","CN伍六七🇨🇳","[DR]fecm"],
+    "cr": [10.781,12.625,12.270],
+    "csr_owner": [],
+    "csr": [],
+    "update_dt": "2022-02-24"
+  },
+
+  "Factory Cup": {
+    "no": 11,
+    "en": ["Factory Cup", "Factory Settings", "Face Plant", "Flip A Switch"],
+    "zh": ["工厂杯", "初始设置", "直面植物", "拨动开关"],
+    "wr_owner": ["[RS]Synix","RS|badrø_RR","SB|Øp3n|UP"],
+    "wr": [10.937,12.56,11.902],
+    "cr_owner": ["CN|PR-five","CN|DR-HUAWEI","CN-伍六七🔝"],
+    "cr": [11.892,12.796,13.175],
+    "csr_owner": [],
+    "csr": [],
+    "update_dt": "2022-02-24"
+  },
+
+  "Sunday Champ": {
+    "no": 12,
+    "en": ["Sunday Champ", "Bridges and Stones", "The Dip", "Killing Floors", "Shaft Redemption"],
+    "zh": ["烈日极速", "乡村小桥", "水路", "绝命之地", "轻松山路"],
+    "wr_owner": ["dorkceratoor","[SB]OzieMas","RS|RUOK","[PR|F1]Meg"],
+    "wr": [9.252,11.147,10.741,13.579],
+    "cr_owner": ["DR|SHADOW","DR-567","DR-玄冥币啊","CN|PR-five"],
+    "cr": [9.445,11.607,11.642,13.931],
+    "csr_owner": [],
+    "csr": [],
+    "update_dt": "2022-02-24"
+  },
+
+  "Marshland Cup": {
+    "no": 13,
+    "en": ["Marshland Cup", "Tired Alligators", "Hangout Cave", "Docked Out"],
+    "zh": ["沼泽杯", "疲惫鳄鱼", "驶离洞穴", "逃离束缚"],
+    "wr_owner": ["R$||nøt dãrk","NK|Barak·","ThanksCarlos"],
+    "wr": [12.436,11.628,14.719],
+    "cr_owner": ["CN|DR-est","[DR]fecm","竹子"],
+    "cr": [12.980,11.944,15.921],
+    "csr_owner": [],
+    "csr": [],
+    "update_dt": "2022-02-24"
+  },
+
+  "Spring City": {
+    "no": 14,
+    "en": ["Spring City", "Rubberist", "Heat Club", "Whipclash", "Fury Road"],
+    "zh": ["暮光之城", "漫长公路", "热浪隧道", "溪流道", "狂怒之路"],
+    "wr_owner": ["SB|H¥P∆DØ|KS","lvl3thruster","SB|TinTo|UP","G2 OzZiE SiU"],
+    "wr": [17.655,19.751,13.003,13.952],
+    "cr_owner": ["[DR]fecm","[DR]fecm","CN|PR-five","[DR]fecm"],
+    "cr": [18.674,20.78,13.566,15.161],
+    "csr_owner": [],
+    "csr": [],
+    "update_dt": "2022-02-24"
+  },
+
+  "Winter Cup": {
+    "no": 15,
+    "en": ["Winter Cup", "Yellow Snow", "Sledhammer", "Icicle Race"],
+    "zh": ["雪人王国", "黄昏雪景", "雪锤", "冰柱赛车"],
+    "wr_owner": ["[PR]Fastest","[PR]·Kazaka·","[SB]LegLambo"],
+    "wr": [11.586,11.601,10.681],
+    "cr_owner": ["CN伍六七🇨🇳","CN|PR-five","[DR]fecm"],
+    "cr": [12.128,11.74,10.95],
+    "csr_owner": [],
+    "csr": [],
+    "update_dt": "2022-02-24"
+  },
+
+  "Dirty Rally": {
+    "no": 16,
+    "en": ["Dirty Rally", "FingerWoods", "The Quarry", "Lost in Transmission", "Flipway"],
+    "zh": ["尘埃拉力", "小树林", "采石场", "动力丢失", "特技翻滚"],
+    "wr_owner": ["SB|TinTo","RS|Yuki|DB","[PR]Dzoing","RS|PrØteC|SN"],
+    "wr": [12.747,11.276,12.306,13.966],
+    "cr_owner": ["CN|DR-HUAWEI","CN|DR-HUAWEI","CN|PR-five","DR-玄冥币啊"],
+    "cr": [13.611,12.075,13.230,14.56],
+    "csr_owner": [],
+    "csr": [],
+    "update_dt": "2022-02-24"
+  },
+
+  "I Hate Water": {
+    "no": 17,
+    "en": ["I Hate Water", "Deeper End", "The Trench", "Reef Grief"],
+    "zh": ["我讨厌水", "致命深渊", "深渊海沟", "悲伤珊瑚"],
+    "wr_owner": ["PrØXMas|DB","RS|PrØteC|SN","possible wr?"],
+    "wr": [15.351,17.080,18.259],
+    "cr_owner": ["CN-极速飞飞","CN|PR-five","CN|PR-five"],
+    "cr": [17.350,17.393,18.265],
+    "csr_owner": [],
+    "csr": [],
+    "update_dt": "2022-02-24"
+  },
+
+  "Magnetic Circuit": {
+    "no": 18,
+    "en": ["Magnetic Circuit", "Falling Crates", "Magnet Madness", "Take Off"],
+    "zh": ["磁力巡回", "纸箱坠落", "疯狂磁力", "起飞时间"],
+    "wr_owner": ["🙂GGDarv","R$||nøt dãrk","SB|Darv"],
+    "wr": [15.826,15.000,12.959],
+    "cr_owner": ["DR-567","CN|DR-Noob","DR-吹风"],
+    "cr": [16.590,15.967,13.093],
+    "csr_owner": [],
+    "csr": [],
+    "update_dt": "2022-02-24"
+  },
+
+  "Miner's Mile": {
+    "no": 19,
+    "en": ["Miner's Mile", "Long Road Down"],
+    "zh": ["矿工的里程", "漫漫长路"],
+    "wr_owner": ["11/13/2021"],
+    "wr": [33.953],
+    "cr_owner": ["CN-极速飞飞"],
+    "cr": [39.427],
+    "csr_owner": [],
+    "csr": [],
+    "update_dt": "2022-02-24"
+  },
+
+  "Green Cup": {
+    "no": 20,
+    "en": ["Green Cup", "Bill's Landing", "Spartan Racing", "Ballmer's Peak"],
+    "zh": ["无尽森林", "林荫小道", "斯巴达之旅", "鲍尔默之峰"],
+    "wr_owner": ["RS|xerxesUP","jeep rip","SB|DS|TinTo"],
+    "wr": [13.154,14.968,13.846],
+    "cr_owner": ["DR-out","CN|PR-five","CN|PR-five"],
+    "cr": [14.131,16.183,14.196],
+    "csr_owner": [],
+    "csr": [],
+    "update_dt": "2022-02-24"
+  },
+
+  "Interstate Cup": {
+    "no": 21,
+    "en": ["Interstate Cup", "Skid Happens", "No Step on Snek", "Bat Country"],
+    "zh": ["洲际公路", "小心打滑", "毒蛇出没", "荒漠迷途"],
+    "wr_owner": ["[SB]roxx","RS|Vince","KARTIK®"],
+    "wr": [15.262,16.652,13.578],
+    "cr_owner": ["CN|PR-five","CN|PR-five","DR-567"],
+    "cr": [15.817,17.093,13.935],
+    "csr_owner": [],
+    "csr": [],
+    "update_dt": "2022-02-24"
+  },
+
+  "Mountain Cup": {
+    "no": 22,
+    "en": ["Mountain Cup", "Through The Mountains", "Gentle Escalation", "Cool Descent"],
+    "zh": ["山谷杯", "穿越山谷", "缓慢攀爬", "寒冷血统"],
+    "wr_owner": ["RS|Bobux_RR","with ghost","RS|LP MiTπØ"],
+    "wr": [15.950,14.734,11.354],
+    "cr_owner": ["AoC-伍六七","CN-极速飞飞","CN|DR-DaQing"],
+    "cr": [16.808,15.952,11.556],
+    "csr_owner": [],
+    "csr": [],
+    "update_dt": "2022-02-24"
+  },
+
+  "Desert Caves": {
+    "no": 23,
+    "en": ["Desert Caves", "Topsy-Turvy", "Roll With It", "Switch It Up"],
+    "zh": ["沙漠洞窟", "翻转颠倒", "车轮滚滚", "形式反转"],
+    "wr_owner": ["UP|Élitix·SB","G|PR|Lenny","RS|TOP[4]"],
+    "wr": [14.572,14.526,14.853],
+    "cr_owner": ["Not ChuiFeng","CN|DR-HUAWEI","TC|DR-DaQing"],
+    "cr": [15.681,15.389,16.618],
+    "csr_owner": [],
+    "csr": [],
+    "update_dt": "2022-02-24"
+  },
+
+  "Capital Cup": {
+    "no": 24,
+    "en": ["Capital Cup", "Drive Through", "Danger Zone", "A Bridge Too Far"],
+    "zh": ["首都杯", "城市穿越", "致命领域", "桥在哪里"],
+    "wr_owner": ["ObiWanKenobi","DR-567","RS|PrØteC|SN"],
+    "wr": [14.2,12.55,14.164],
+    "cr_owner": ["CN|DR-Noob","DR-567","DaQi VS xiao"],
+    "cr": [14.894,12.55,15.345],
+    "csr_owner": [],
+    "csr": [],
+    "update_dt": "2022-02-24"
+  },
+
+  "Uphill Cup": {
+    "no": 25,
+    "en": ["Uphill Cup", "Cliffside Way", "Tricky Drive"],
+    "zh": ["荒漠谜城", "悬崖道", "恐怖谷"],
+    "wr_owner": ["WhyBaby?","RS|Rony"],
+    "wr": [15.294,10.681],
+    "cr_owner": ["CN-极速飞飞","DR|玄冥币啊"],
+    "cr": [15.841,10.925],
+    "csr_owner": [],
+    "csr": [],
+    "update_dt": "2022-02-24"
+  },
+
+  "Mine Shaft Cup": {
+    "no": 26,
+    "en": ["Mine Shaft Cup", "Nose Miner", "Happy Miner", "A Flat Miner"],
+    "zh": ["矿井探险", "地下", "快乐矿工", "注意头顶"],
+    "wr_owner": ["[MUSTHAFA]","ObiWanKenobi","RS|Darv"],
+    "wr": [16.816,14.261,15.934],
+    "cr_owner": ["CN|PR-five","CN|PR-five","CN-极速飞飞"],
+    "cr": [17.566,15.525,16.778],
+    "csr_owner": [],
+    "csr": [],
+    "update_dt": "2022-02-24"
+  },
+
+  "Sand in Swimsuit": {
+    "no": 27,
+    "en": ["Sand in Swimsuit", "Sand in Swimsuit", "Tunnel Dive", "The Big Dunes"],
+    "zh": ["泳装沙滩", "泳装沙滩", "隧道猛冲", "巨大沙丘"],
+    "wr_owner": ["RangerPowers(Vince)","📚🧨🍭🌴👻🔕","SB|Sebix"],
+    "wr": [12.27,16.144,14.433],
+    "cr_owner": ["DR|Mustard","DR-玄冥币啊","CN|PR-five"],
+    "cr": [14.09,17.054,15.864],
+    "csr_owner": [],
+    "csr": [],
+    "update_dt": "2022-02-24"
+  },
+
+  "Backwater Cup": {
+    "no": 28,
+    "en": ["Backwater Cup", "Swamp Ride", "Grill Bill", "Happy Campers"],
+    "zh": ["死水杯赛", "沼泽骑行", "遗落森林", "快乐露营"],
+    "wr_owner": ["RS|PrØteC|SN","|DC|quaKe''","RS|Junior|SN"],
+    "wr": [12.287,9.649,9.297],
+    "cr_owner": ["CN|PR-five","CN|PR-five","CN|PR-five"],
+    "cr": [12.43,9.998,9.435],
+    "csr_owner": [],
+    "csr": [],
+    "update_dt": "2022-02-24"
+  },
+
+  "It's Mine!": {
+    "no": 29,
+    "en": ["It's Mine!", "Boarding", "Carting", "Overtakers"],
+    "zh": ["飞跃矿山", "储木间", "矿车", "全境封锁"],
+    "wr_owner": ["RS|Negan","SB|DC|CrØnØs","[PR]linus"],
+    "wr": [9.934,12.833,11.452],
+    "cr_owner": ["CN|PR-five","CN|PR-five","CN|PR-five"],
+    "cr": [10.191,13.608,11.84],
+    "csr_owner": [],
+    "csr": [],
+    "update_dt": "2022-02-24"
+  },
+
+  "Epic Hills": {
+    "no": 30,
+    "en": ["Epic Hills", "Front Window", "Better Road", "Metar Gear"],
+    "zh": ["奇幻山脉", "坡道", "高速公路", "前方水沟"],
+    "wr_owner": ["SN|RS Carlos","Ca","SB|Gøøs|NK"],
+    "wr": [19.04,19.751,14.112],
+    "cr_owner": ["CN|PR-five","CN|PR-five","DR-玄冥币啊"],
+    "cr": [19.729,21.319,15.037],
+    "csr_owner": [],
+    "csr": [],
+    "update_dt": "2022-02-24"
+  },
+
+  "Finger GP": {
+    "no": 31,
+    "en": ["Finger GP", "Braking Bad", "Hairpin", "Smooth Curves"],
+    "zh": ["极速赛道", "急速刹车", "发夹弯道", "平顺弯道"],
+    "wr_owner": ["SN|Carlos","[PR]linus","RS|PrØteC|SN"],
+    "wr": [17.147,16.104,13.549],
+    "cr_owner": ["CN|PR-five","CN-极速飞飞","CN|PR-five"],
+    "cr": [17.517,16.893,14.373],
+    "csr_owner": [],
+    "csr": [],
+    "update_dt": "2022-02-24"
+  },
+
+  "Gloomvale Cup": {
+    "no": 32,
+    "en": ["Gloomvale Cup", "Dusky Vale", "Big Log Sprint", "Twisted Trees"],
+    "zh": ["格洛维尔", "昏暗山谷", "原木冲锋", "扭曲树林"],
+    "wr_owner": ["Pong","m.i.l.e.s.","RS B O B U X"],
+    "wr": [10.355,14.062,14.386],
+    "cr_owner": ["but I can't","DR-玄冥币啊","DR-est"],
+    "cr": [11.111,15.108,15,579],
+    "csr_owner": [],
+    "csr": [],
+    "update_dt": "2022-02-24"
+  },
+
+  "Winter is Coming": {
+    "no": 33,
+    "en": ["Winter is Coming", "Snow Castle"],
+    "zh": ["冬日来袭", "冰雪奇缘"],
+    "wr_owner": ["use this car"],
+    "wr": [39.715],
+    "cr_owner": ["CN-极速飞飞"],
+    "cr": [42.966],
+    "csr_owner": [],
+    "csr": [],
+    "update_dt": "2022-02-24"
+  },
+
+  "Stormrider Cup": {
+    "no": 34,
+    "en": ["Stormrider Cup", "Tailwind Trail", "Headwind Shortcut", "Like a Hawk"],
+    "zh": ["风暴骑士杯", "顺风赛道", "逆风捷径", "像鹰一样"],
+    "wr_owner": ["CARL🌍S","SN|Zeyttrum","SB|Cronos"],
+    "wr": [16.235,18.345,9.568],
+    "cr_owner": ["DR-CHUIfeng","CN-极速飞飞","Not ChuiFeng"],
+    "cr": [17.568,18.944,13.641],
+    "csr_owner": [],
+    "csr": [],
+    "update_dt": "2022-02-25"
+  },
+
+  "Deep Diving": {
+    "no": 35,
+    "en": ["Deep Diving", "Deepest End"],
+    "zh": ["深层驾驶", "无底深渊"],
+    "wr_owner": ["back to hcr2"],
+    "wr": [27.346],
+    "cr_owner": ["CN-极速飞飞"],
+    "cr": [30.246],
+    "csr_owner": [],
+    "csr": [],
+    "update_dt": "2022-02-25"
+  },
+
+  "More Mines": {
+    "no": 36,
+    "en": ["More Mines", "Rock and Roll", "Wheeler", "Deep End"],
+    "zh": ["点石成金", "摇滚精神", "车轮障碍", "突破重围"],
+    "wr_owner": ["RS|PrØteC|SN","Ojas","DC|SJ|PRØ™"],
+    "wr": [10.294,16.453,13.633],
+    "cr_owner": ["CN|DR-HUAWEI","CN-five","CN|PR-five"],
+    "cr": [11.476,17.418,15.004],
+    "csr_owner": [],
+    "csr": [],
+    "update_dt": "2022-02-25"
+  },
+
+  "Tunnels": {
+    "no": 37,
+    "en": ["Tunnels", "Tunnel Vision", "The Esses", "On the Rocks"],
+    "zh": ["深渊矿道", "隧道历险", "曲折盘旋", "岩石险峰"],
+    "wr_owner": ["[PR]linus(Carlos)","RS|·GeTMaN","SN|Carlos"],
+    "wr": [19.276,12.574,18.986],
+    "cr_owner": ["CN|PR-five","CN-five","CN|PR-five"],
+    "cr": [20.559,14.009,20.474],
+    "csr_owner": [],
+    "csr": [],
+    "update_dt": "2022-02-25"
+  },
+
+  "Glacier Cup": {
+    "no": 38,
+    "en": ["Glacier Cup", "Boiling Hollow", "Bone Gorge"],
+    "zh": ["冰川杯", "腾空翻转", "裂痕峡谷"],
+    "wr_owner": ["SN|Carlos|DB","oh sabeer...."],
+    "wr": [20.292,17.597],
+    "cr_owner": ["CN-极速飞飞","[DR]fecm"],
+    "cr": [21.735,18.497],
+    "csr_owner": [],
+    "csr": [],
+    "update_dt": "2022-02-25"
+  },
+
+  "Forgotten Highway": {
+    "no": 39,
+    "en": ["Forgotten Highway", "Forgotten Highway"],
+    "zh": ["被遗忘公路", "被遗忘公路"],
+    "wr_owner": ["RS|RuinX1_RR"],
+    "wr": [26.387],
+    "cr_owner": ["[DR]fecm"],
+    "cr": [28.228],
+    "csr_owner": [],
+    "csr": [],
+    "update_dt": "2022-02-25"
+  },
+
+  "Frostfire Caverns": {
+    "no": 40,
+    "en": ["Frostfire Caverns", "Frostfire Caverns"],
+    "zh": ["冰火洞窟", "冰火洞窟"],
+    "wr_owner": ["SB|drackon"],
+    "wr": [32.204],
+    "cr_owner": ["CN-极速飞飞"],
+    "cr": [36.945],
+    "csr_owner": [],
+    "csr": [],
+    "update_dt": "2022-02-25"
+  },
+
+  "Desert Mile": {
+    "no": 41,
+    "en": ["Desert Mile", "Far Far Away"],
+    "zh": ["无尽沙漠", "越飞越远"],
+    "wr_owner": ["SN|Carlos|DB"],
+    "wr": [32.024],
+    "cr_owner": ["DR-567"],
+    "cr": [34.562],
+    "csr_owner": [],
+    "csr": [],
+    "update_dt": "2022-02-25"
+  },
+
+  "Finger Travels": {
+    "no": 42,
+    "en": ["Finger Travels", "Tide Waves", "Kids' pool", "Sandbox"],
+    "zh": ["指间历险", "海潮海浪", "儿童泳池", "沙箱"],
+    "wr_owner": ["F1[PR]Jakobi","RS|PrØteC|SN","R$·ShOcK·UP"],
+    "wr": [12.954,13.302,12.353],
+    "cr_owner": ["CN|PR-five","CN-极速飞飞","DaQi VS xiao"],
+    "cr": [13.007,14.823,12.666],
+    "csr_owner": [],
+    "csr": [],
+    "update_dt": "2022-02-25"
+  },
+
+  "Hub Cap Cup": {
+    "no": 43,
+    "en": ["Hub Cap Cup", "Rust Valley", "Cactus Hill", "Dust Valley"],
+    "zh": ["车轮滚滚", "腐蚀峡谷", "仙人掌山路", "尘埃山谷"],
+    "wr_owner": ["ESQ|MUSTAFA","RS|RuinX1_RR","RS|ShOcK|UP"],
+    "wr": [10.093,14.178,12.62],
+    "cr_owner": ["shadow","Fever Dream","DR-玄冥币啊"],
+    "cr": [10.54,14.793,12.897],
+    "csr_owner": [],
+    "csr": [],
+    "update_dt": "2022-02-25"
+  },
+
+  "Bill's Circuit": {
+    "no": 44,
+    "en": ["Bill's Circuit", "Hot Tarmac", "The Carousel", "Fast Lane"],
+    "zh": ["比尔赛道", "炽热柏油", "旋转木马", "快车行道"],
+    "wr_owner": ["BR|Glare","[PR]Lattack","[RS|NGB]Alex"],
+    "wr": [13.019,17.086,15.061],
+    "cr_owner": ["[DR]fecm","CN|PR-five","[DR]fecm"],
+    "cr": [14.012,17.52,15.539],
+    "csr_owner": [],
+    "csr": [],
+    "update_dt": "2022-02-26"
+  },
+
+  "Forest Cup": {
+    "no": 45,
+    "en": ["Forest Cup", "Logs and Rocks", "Rock Pit", "Flying Log"],
+    "zh": ["森林杯赛", "岩石原木", "岩石矿洞", "原木飞行"],
+    "wr_owner": ["[RS|NGB]Alex","RS|animowy","RS|PrØteC|SN"],
+    "wr": [12.676,11.993,11.319],
+    "cr_owner": ["竹子","CN|DaQing|DR","CN|PR-five"],
+    "cr": [13.196,13.168,12.271],
+    "csr_owner": [],
+    "csr": [],
+    "update_dt": "2022-02-26"
+  },
+
+  "Paradise Bay": {
+    "no": 46,
+    "en": ["Paradise Bay", "Paradise Bay"],
+    "zh": ["天堂海湾", "天堂海湾"],
+    "wr_owner": ["Simon Plays"],
+    "wr": [31.138],
+    "cr_owner": ["CN|DR-HUAWEI"],
+    "cr": [32.738],
+    "csr_owner": [],
+    "csr": [],
+    "update_dt": "2022-02-26"
+  },
+
+  "Death Mountain": {
+    "no": 47,
+    "en": ["Death Mountain", "Base Camp", "Crazy Climb", "Top of the world"],
+    "zh": ["死亡山脉", "宿营基地", "疯狂攀登", "世界之巅"],
+    "wr_owner": ["Zorro","RangerPowers(Carlos)","GER|PR|Lenny"],
+    "wr": [9.806,15.187,13.109],
+    "cr_owner": ["DR-知足吹风","CN-极速飞飞","CN|PR-five"],
+    "cr": [10.157,16.417,13.707],
+    "csr_owner": [],
+    "csr": [],
+    "update_dt": "2022-02-26"
+  },
+
+  "Bumpy Ride Cup": {
+    "no": 48,
+    "en": ["Bumpy Ride Cup", "Bumpy Ride", "Rough Road", "Under the Cliff"],
+    "zh": ["颠簸之路", "颠簸之路", "崎岖道路", "悬崖深处"],
+    "wr_owner": ["RS|PrØteC|DB","[RS|NGB]Alex","[PR]Pie·Ø·My"],
+    "wr": [7.871,7.639,11.088],
+    "cr_owner": ["CN|PR-five","CN伍六七🇨🇳","DR-CHUIfeng"],
+    "cr": [7.975,7.858,11.600],
+    "csr_owner": [],
+    "csr": [],
+    "update_dt": "2022-02-26"
+  },
+
+  "Travel Cup": {
+    "no": 49,
+    "en": ["Travel Cup", "Nowhere Road", "Coconut Cove", "Downtown Madness"],
+    "zh": ["旅行杯赛", "无处道路", "椰子海湾", "疯狂闹市"],
+    "wr_owner": ["SWE|legend","RS|Rony","[DON] HERE"],
+    "wr": [12.363,13.772,12.306],
+    "cr_owner": ["CN-极速飞飞","DaQi VS xiao","竹子"],
+    "cr": [12.757,14.589,13.000],
+    "csr_owner": [],
+    "csr": [],
+    "update_dt": "2022-02-26"
+  },
+
+  "Deep Driving": {
+    "no": 50,
+    "en": ["Deep Driving", "Backwash Dash", "Coral Quareel", "Thalassophobia"],
+    "zh": ["深层驾驶", "反向冲刺", "珊瑚墓场", "神秘海域"],
+    "wr_owner": ["[PR]Paroaa","[PR]MoonCat","RS||JeMoeder"],
+    "wr": [16.965,16.363,16.269],
+    "cr_owner": ["CN|PR-five","CN-极速飞飞","DR－金宝宝"],
+    "cr": [17.466,17.335,17.252],
+    "csr_owner": [],
+    "csr": [],
+    "update_dt": "2022-02-26"
+  },
+
+  "Mountain Bridges": {
+    "no": 51,
+    "en": ["Mountain Bridges", "Living on the Edge", "Over the Cliff", "Steep Downhill Cliff"],
+    "zh": ["山脉绳桥", "末日求生", "悬崖峭壁", "极速下降"],
+    "wr_owner": ["WR for DB","[DON] HERE","SB|C∆T·UP"],
+    "wr": [11.496,9.747,7.286],
+    "cr_owner": ["CN|PR-five","CN|PR-five","CN|PR-five"],
+    "cr": [11.871,10.557,7.486],
+    "csr_owner": [],
+    "csr": [],
+    "update_dt": "2022-02-26"
+  },
+
+  "Cup of City Water": {
+    "no": 52,
+    "en": ["Cup of City Water", "Get Soaked", "Watery Tunnel", "Don't Dive"],
+    "zh": ["水城杯赛", "全身湿透", "水中通道", "不要跳水"],
+    "wr_owner": ["roxx","CarlosTechOP","RS|Lol|DB"],
+    "wr": [14.050,11.389,8.798],
+    "cr_owner": ["CN|PR-five","DR-takeieasy","CN|PR-five"],
+    "cr": [14.191,12.005,9.425],
+    "csr_owner": [],
+    "csr": [],
+    "update_dt": "2022-02-26"
+  },
+
+  "Rocky Road Cup": {
+    "no": 53,
+    "en": ["Rocky Road Cup", "Dirt Road", "Danger Ahead", "Highs and Lows"],
+    "zh": ["崎岖石路", "泥泞道路", "前方危险", "起起伏伏"],
+    "wr_owner": ["Mcuek","SB|drackon","RS|PrØteC|SN"],
+    "wr": [13.575,15.928,12.794],
+    "cr_owner": ["DR-jingle Be","[DR]fecm","CN|PR-five"],
+    "cr": [14.089,16.876,13.796],
+    "csr_owner": [],
+    "csr": [],
+    "update_dt": "2022-02-26"
+  },
+
+  "Alligator Cup": {
+    "no": 54,
+    "en": ["Alligator Cup", "Parking Trailers", "Snappy Swamps", "Bumps in the Water"],
+    "zh": ["鳄鱼水杯", "牵引拖车", "生机沼泽", "水中翻腾"],
+    "wr_owner": ["PR|DJ Popara","(SB)Doom","RS|gms|PF"],
+    "wr": [10.336,14.501,11.12],
+    "cr_owner": ["CN|PR-five","CN|DR-DaQing","CN|PR-five"],
+    "cr": [11.087,15.410,11.348],
+    "csr_owner": [],
+    "csr": [],
+    "update_dt": "2022-02-26"
+  },
+
+  "Boggy Road": {
+    "no": 55,
+    "en": ["Boggy Road", "Muddy Road", "Cottage Road", "Lonely Camper"],
+    "zh": ["沼泽道路", "泥泞小道", "村镇乡道", "寂寞露营"],
+    "wr_owner": ["PR|Popara®","RS|W|Pawel","[PR]JohnBoy"],
+    "wr": [11.299,11.876,11.345],
+    "cr_owner": ["CN|PR-five","CN|PR-five","DR-玄冥币啊"],
+    "cr": [11.803,12.273,12.449],
+    "csr_owner": [],
+    "csr": [],
+    "update_dt": "2022-02-26"
+  },
+
+  "Delightful Diversions": {
+    "no": 56,
+    "en": ["Delightful Diversions", "Access to Enjoyment", "Liability Free Fun", "Generate Delight"],
+    "zh": ["这令人愉悦的乐趣", "不过好玩？往那边去！", "肆意妄为！", "“快乐”已完成"],
+    "wr_owner": ["RS|Pawel","GreeNeo®","RS|Vince"],
+    "wr": [13.953,11.451,12.721],
+    "cr_owner": ["DR-567","CN|DR-HUAWEI","无凡"],
+    "cr": [15.356,12.134,13.098],
+    "csr_owner": [],
+    "csr": [],
+    "update_dt": "2022-02-26"
+  },
+
+  "Embark on Entertainment": {
+    "no": 57,
+    "en": ["Embark on Entertainment", "Approaching Dread", "Commence Fright", "Spook on, Spook off"],
+    "zh": ["娱乐开始", "恐惧来临", "心惊胆战", "鬼影重重"],
+    "wr_owner": ["SN|PedrøGTV","RS|TOP[4]","[PR]linus"],
+    "wr": [15.479,18.01,15.425],
+    "cr_owner": ["DR²卡卡罗特","CN-极速飞飞","DR²卡卡罗特"],
+    "cr": [16.102,19.131,16.457],
+    "csr_owner": [],
+    "csr": [],
+    "update_dt": "2022-03-01"
+  },
+
+  "Downhill Cup": {
+    "no": 58,
+    "en": ["Downhill Cup", "The Ruins", "Tumbling Down", "Down the Tube"],
+    "zh": ["险峻滑坡", "恐怖废墟", "冲下山脊", "蜿蜒山路"],
+    "wr_owner": ["RS|Pies fuf","wr tactic","RS|Darv"],
+    "wr": [12.071,13.237,12.114],
+    "cr_owner": ["DR|SHADOW","DaQi VS xiao","DR-玄冥币啊"],
+    "cr": [12.386,13.631,13.548],
+    "csr_owner": [],
+    "csr": [],
+    "update_dt": "2022-02-26"
+  },
+
+  "Mystical Cup": {
+    "no": 59,
+    "en": ["Mystical Cup", "You shall not jump", "The Princess Drive", "Puddle Bender", "A storm of Stumps"],
+    "zh": ["神秘空间", "禁止跳跃", "公主大道", "积水路段", "树桩风暴"],
+    "wr_owner": ["SB|Target","RS|Thimø|UP","ŁP|SB EdoX","Buggy🙀"],
+    "wr": [10.857,11.841,11.661,11.071],
+    "cr_owner": ["CN|DR-est","TC｜二炮","CN|DR-est","CN|DR-est"],
+    "cr": [11.496,12.532,11.985,11.934],
+    "csr_owner": [],
+    "csr": [],
+    "update_dt": "2022-02-26"
+  }
+}

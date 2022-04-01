@@ -1,0 +1,17 @@
+{
+  "coin": {
+    "img": "img/coin.png"
+  },
+
+  "gem": {
+    "img": "img/gem.png"
+  },
+
+  "scrap": {
+    "img": "img/scrap.png"
+  },
+
+  "blue_ticket": {
+    "img": "img/blue_ticket.png"
+  }
+}

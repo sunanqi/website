@@ -1,0 +1,277 @@
+{
+  "Hill Climber": {
+    "no": 1,
+    "en": "Hill Climber",
+    "zh": "登山赛车",
+    "img": "img/vehicles/vehicle-01-hill-climber.png",
+    "price": 0,
+    "upgrade_cost": [0, 800, 1500, 2200, 2900, 3700, 4500, 5400, 6400, 7400, 8600, 10000, 11000, 13000, 15000, 17000, 20000, 23000, 26000, 30000],
+    "ads_free_until": 8,
+    "fuel": 40,
+    "parts_cost": 9187100
+  },
+
+  "Scooter": {
+    "no": 2,
+    "en": "Scooter",
+    "zh": "小轮摩托",
+    "img": "img/vehicles/vehicle-02-scooter.png",
+    "price": 5000,
+    "upgrade_cost": [0, 800, 1500, 2200, 2900, 3700, 4500, 5400, 6400, 7400, 8600, 10000, 11000, 13000, 15000, 17000, 20000, 23000, 26000, 30000],
+    "ads_free_until": 8,
+    "fuel": 50,
+    "parts_cost": 9187100
+  },
+
+  "Bus": {
+    "no": 3,
+    "en": "Bus",
+    "zh": "巴士",
+    "img": "img/vehicles/vehicle-03-bus.png",
+    "price": 7000,
+    "upgrade_cost": [0, 1200, 1900, 2700, 3600, 4500, 5500, 6600, 7800, 9200, 11000, 12000, 14000, 17000, 19000, 22000, 26000, 30000, 35000, 41000],
+    "ads_free_until": 7,
+    "fuel": 60,
+    "parts_cost": 7109300
+  },
+
+  "Hill Climber Mk 2": {
+    "no": 4,
+    "en": "Hill Climber Mk 2",
+    "zh": "登山赛车Mk2",
+    "img": "img/vehicles/vehicle-04-hill-climber-mk-2.png",
+    "price": 9000,
+    "upgrade_cost": [0, 1200, 1900, 2700, 3600, 4500, 5500, 6600, 7800, 9200, 11000, 12000, 14000, 17000, 19000, 22000, 26000, 30000, 35000, 41000],
+    "ads_free_until": 7,
+    "fuel": 44,
+    "parts_cost": 8494500
+  },
+
+  "Tractor": {
+    "no": 5,
+    "en": "Tractor",
+    "zh": "拖拉机",
+    "img": "img/vehicles/vehicle-05-tractor.png",
+    "price": 15000,
+    "upgrade_cost": [0, 1200, 1900, 2700, 3600, 4500, 5500, 6600, 7800, 9200, 11000, 12000, 14000, 17000, 19000, 22000, 26000, 30000, 35000, 41000],
+    "ads_free_until": 5,
+    "fuel": 50,
+    "parts_cost": 7602900
+  },
+
+  "Motocross": {
+    "no": 6,
+    "en": "Motocross",
+    "zh": "越野摩托车",
+    "img": "img/vehicles/vehicle-06-motocross.png",
+    "price": 20000,
+    "upgrade_cost": [0, 1600, 2400, 3300, 4300, 5300, 6500, 7800, 9200, 11000, 13000, 15000, 17000, 20000, 24000, 28000, 32000, 38000, 44000, 52000],
+    "ads_free_until": 6,
+    "fuel": 42,
+    "parts_cost": 9187100
+  },
+
+  "Dune Buggy": {
+    "no": 7,
+    "en": "Dune Buggy",
+    "zh": "沙丘越野车",
+    "img": "img/vehicles/vehicle-07-dune-buggy.png",
+    "price": 30000,
+    "upgrade_cost": [0, 1600, 2400, 3300, 4300, 5300, 6500, 7800, 9200, 11000, 13000, 15000, 17000, 20000, 24000, 28000, 32000, 38000, 44000, 52000],
+    "ads_free_until": 6,
+    "fuel": 44,
+    "parts_cost": 8494500
+  },
+
+  "Sports Car": {
+    "no": 8,
+    "en": "Sports Car",
+    "zh": "跑车",
+    "img": "img/vehicles/vehicle-08-sports-car.png",
+    "price": 80000,
+    "upgrade_cost": [0, 2000, 3000, 4100, 5400, 6900, 8600, 11000, 13000, 16000, 19000, 24000, 29000, 35000, 43000, 52000, 64000, 79000, 97000, 120000],
+    "ads_free_until": 5,
+    "fuel": 38,
+    "parts_cost": 8494500
+  },
+
+  "Monster Truck": {
+    "no": 9,
+    "en": "Monster Truck",
+    "zh": "怪物卡车",
+    "img": "img/vehicles/vehicle-09-monster-truck.png",
+    "price": 40000,
+    "upgrade_cost": [0, 2000, 2900, 3900, 5000, 6100, 7500, 9000, 11000, 13000, 15000, 17000, 20000, 24000, 28000, 33000, 38000, 45000, 53000, 62000],
+    "ads_free_until": 5,
+    "fuel": 45,
+    "parts_cost": 9187100
+  },
+
+  "Rotator": {
+    "no": 10,
+    "en": "Rotator",
+    "zh": "翻斗车",
+    "img": "img/vehicles/vehicle-10-rotator.png",
+    "price": 50000,
+    "upgrade_cost": [0, 2000, 3000, 4100, 5400, 6900, 8600, 11000, 13000, 16000, 19000, 24000, 29000, 35000, 43000, 52000, 64000, 79000, 97000, 120000],
+    "ads_free_until": 5,
+    "fuel": 44,
+    "parts_cost": 7227000
+  },
+
+  "Super Diesel": {
+    "no": 11,
+    "en": "Super Diesel",
+    "zh": "超级柴油车",
+    "img": "img/vehicles/vehicle-11-super-diesel.png",
+    "price": 60000,
+    "upgrade_cost": [0, 1600, 2400, 3300, 4300, 5300, 6500, 7800, 9200, 11000, 13000, 15000, 17000, 20000, 24000, 28000, 32000, 38000, 44000, 52000],
+    "ads_free_until": 6,
+    "fuel": 52,
+    "parts_cost": 7801900
+  },
+
+  "Chopper": {
+    "no": 12,
+    "en": "Chopper",
+    "zh": "哈雷摩托",
+    "img": "img/vehicles/vehicle-12-chopper.png",
+    "price": 60000,
+    "upgrade_cost": [0, 1600, 2400, 3300, 4300, 5300, 6500, 7800, 9200, 11000, 13000, 15000, 17000, 20000, 24000, 28000, 32000, 38000, 44000, 52000],
+    "ads_free_until": 6,
+    "fuel": [38, 38.8, 39.8, 40.8, 42, 43.2, 44.4, 45.6, 46.4, 48, 49, 50.2, 51.2, 52.2, 53, 53.6, 54.2, 54.6, 54.8, 55],
+    "parts_cost": 7919600
+  },
+
+  "Tank": {
+    "no": 13,
+    "en": "Tank",
+    "zh": "坦克",
+    "img": "img/vehicles/vehicle-13-tank.png",
+    "price": 70000,
+    "upgrade_cost": [0, 2000, 2900, 3900, 5000, 6100, 7500, 9000, 11000, 13000, 15000, 17000, 20000, 24000, 28000, 33000, 38000, 45000, 53000, 62000],
+    "ads_free_until": 5,
+    "fuel": [30, 31.5, 32.8, 34.4, 36.2, 38, 39.8, 41.6, 43.4, 45.2, 47, 48.6, 50.2, 51.6, 53, 54, 54.8, 55.4, 55.8, 56],
+    "parts_cost": 8494500
+  },
+
+  "Snowmobile": {
+    "no": 14,
+    "en": "Snowmobile",
+    "zh": "雪地摩托",
+    "img": "img/vehicles/vehicle-14-snowmobile.png",
+    "price": 70000,
+    "upgrade_cost": [0, 2000, 2900, 3900, 5000, 6100, 7500, 9000, 11000, 13000, 15000, 17000, 20000, 24000, 28000, 33000, 38000, 45000, 53000, 62000],
+    "ads_free_until": 5,
+    "fuel": [30, 31.5, 32.8, 34.4, 36.2, 38, 39.8, 41.6, 43.4, 45.2, 47, 48.6, 50.2, 51.6, 53, 54, 54.8, 55.4, 55.8, 56],
+    "parts_cost": 7720600
+  },
+
+  "Monowheel": {
+    "no": 15,
+    "en": "Monowheel",
+    "zh": "单轮车",
+    "img": "img/vehicles/vehicle-15-monowheel.png",
+    "price": 30000,
+    "upgrade_cost": [0, 1600, 2400, 3300, 4300, 5300, 6500, 7800, 9200, 11000, 13000, 15000, 17000, 20000, 24000, 28000, 32000, 38000, 44000, 52000],
+    "ads_free_until": 6,
+    "fuel": 50,
+    "parts_cost": 5557200
+  },
+
+  "Rally Car": {
+    "no": 16,
+    "en": "Rally Car",
+    "zh": "拉力赛车",
+    "img": "img/vehicles/vehicle-16-rally-car.png",
+    "price": 70000,
+    "upgrade_cost": [0, 2000, 3000, 4200, 5600, 7200, 9100, 11000, 14000, 18000, 22000, 27000, 33000, 41000, 51000, 64000, 80000, 100000, 120000, 160000],
+    "ads_free_until": 5,
+    "fuel": 40,
+    "parts_cost": 8494500
+  },
+
+  "Formula": {
+    "no": 17,
+    "en": "Formula",
+    "zh": "方程式赛车",
+    "img": "img/vehicles/vehicle-17-formula.png",
+    "price": 90000,
+    "upgrade_cost": [0, 2000, 3100, 4400, 5900, 7700, 9900, 13000, 16000, 20000, 26000, 33000, 41000, 53000, 67000, 86000, 110000, 140000, 180000, 230000],
+    "ads_free_until": 5,
+    "fuel": 30,
+    "parts_cost": 7028000
+  },
+
+  "Racing Truck": {
+    "no": 18,
+    "en": "Racing Truck",
+    "zh": "竞速卡车",
+    "img": "img/vehicles/vehicle-18-racing-truck.png",
+    "price": 90000,
+    "upgrade_cost": [0, 2000, 3100, 4400, 5900, 7700, 9900, 13000, 16000, 20000, 26000, 33000, 41000, 53000, 67000, 86000, 110000, 140000, 180000, 230000],
+    "ads_free_until": 5,
+    "fuel": 50,
+    "parts_cost": 7801900
+  },
+
+  "Hot Rod": {
+    "no": 19,
+    "en": "Hot Rod",
+    "zh": "热棒飞车",
+    "img": "img/vehicles/vehicle-19-hot-rod.png",
+    "price": 90000,
+    "upgrade_cost": [0, 2000, 3100, 4400, 5900, 7700, 9900, 13000, 16000, 20000, 26000, 33000, 41000, 53000, 67000, 86000, 110000, 140000, 180000, 230000],
+    "ads_free_until": 5,
+    "fuel": 30,
+    "parts_cost": 4720500
+  },
+
+  "CC-EV": {
+    "no": 20,
+    "en": "CC-EV",
+    "zh": "登斯拉",
+    "img": "img/vehicles/vehicle-20-cc-ev.png",
+    "price": 100000,
+    "upgrade_cost": [0, 2000, 3100, 4400, 5900, 7700, 9900, 13000, 16000, 20000, 26000, 33000, 41000, 53000, 67000, 86000, 110000, 140000, 180000, 230000],
+    "ads_free_until": 5,
+    "fuel": [30, 30.8, 31.7, 32.6, 33.6, 34.6, 35.7, 36.7, 37.8, 38.8, 39.8, 40.8, 41.7, 42.5, 43.2, 43.8, 44.3, 44.7, 44.9, 45],
+    "parts_cost": 7373200
+  },
+
+  "Superbike": {
+    "no": 21,
+    "en": "Superbike",
+    "zh": "超级摩托车",
+    "img": "img/vehicles/vehicle-21-superbike.png",
+    "price": 100000,
+    "upgrade_cost": [0, 2000, 3100, 4400, 5900, 7700, 9900, 13000, 16000, 20000, 26000, 33000, 41000, 53000, 67000, 86000, 110000, 140000, 180000, 230000],
+    "ads_free_until": 5,
+    "fuel": 30,
+    "parts_cost": 7028000
+  },
+
+  "Supercar": {
+    "no": 22,
+    "en": "Supercar",
+    "zh": "超级跑车",
+    "img": "img/vehicles/vehicle-22-supercar.png",
+    "price": 100000,
+    "upgrade_cost": [0, 2000, 3100, 4400, 5900, 7700, 9900, 13000, 16000, 20000, 26000, 33000, 41000, 53000, 67000, 86000, 110000, 140000, 180000, 230000],
+    "ads_free_until": 5,
+    "fuel": 30,
+    "parts_cost": 7145700
+  },
+
+  "Moonlander": {
+    "no": 23,
+    "en": "Moonlander",
+    "zh": "登月车",
+    "img": "img/vehicles/vehicle-23-moonlander.png",
+    "price": 0,
+    "upgrade_cost": [0, 2000, 2900, 3900, 5000, 6100, 7500, 9000, 11000, 13000, 15000, 17000, 20000, 24000, 28000, 33000, 38000, 45000, 53000, 62000],
+    "ads_free_until": 5,
+    "fuel": 50,
+    "parts_cost": 4348900
+  }
+}

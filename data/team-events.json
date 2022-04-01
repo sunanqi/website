@@ -1,0 +1,34 @@
+{
+  "team-2022-03-25": {
+    "match_starts": "2022-03-25",
+    "webpage": "team-2022-03-25-confidence",
+    "match_name": {
+      "en": "Confidence",
+      "zh": "小伙子自信点"
+    },
+    "maps": {
+      "en": [
+        "drive as far as you can",
+        "fly as far as you can",
+        "time attack",
+        "jump as far as you can"
+      ],
+      "zh": [
+        "跑越远越好",
+        "",
+        "",
+        ""
+      ]
+    },
+    "vehicles_allowed": ["Bus","Dune Buggy","Monowheel","Supercar","Moonlander"],
+    "scores": [
+      [30,12.5],
+      [0.01,850],
+      [30,4.5],
+      [50,20]
+    ],
+    "ref_videos": {
+      "Vokope": [39111,{"yt":"_cJVTQCoo-U","b":"BV1UQ4y1r7z4"}]
+    }
+  }
+}

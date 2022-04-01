@@ -1,0 +1,33 @@
+{
+  "Common": {
+    "en": "Common",
+    "zh": "普通",
+    "parts": ["Magnet", "Heavyweight", "Wings", "Rollcage", "Air Control", "Winter Tires"],
+    "coin_cost": [2400,4600,7000,9600,13000,16000,21000,27000,35000,47000,66000,94000,140000,210000],
+    "part_cost": [3,10,17,25,34,45,58,76,100,140,200,280,410,620]
+  },
+
+  "Rare": {
+    "en": "Rare",
+    "zh": "稀有",
+    "parts": ["Start Boost", "Wheelie Boost", "Fume Boost", "Flip Boost", "Jump Shocks"],
+    "coin_cost": [4100,6800,11000,19000,31000,50000,83000,140000,230000],
+    "part_cost": [3,10,17,25,34,45,58,76,100]
+  },
+
+  "Epic": {
+    "en": "Epic",
+    "zh": "史诗",
+    "parts": ["Landing Boost", "Overcharged Turbo", "Afterburner"],
+    "coin_cost": [13000,23000,41000,73000,130000,240000],
+    "part_cost": [3,10,17,25,34,45]
+  },
+
+  "Legendary": {
+    "en": "Legendary",
+    "zh": "传奇",
+    "parts": ["Fuel Boost", "Thrusters", "Coin Boost"],
+    "coin_cost": [24000,55000,120000],
+    "part_cost": [3,10,17]
+  }
+}

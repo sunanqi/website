@@ -1,0 +1,103 @@
+{
+  "Magnet": {
+    "en": "Magnet",
+    "zh": "磁铁",
+    "img": "img/parts/01-magnet.png"
+  },
+
+  "Heavyweight": {
+    "en": "Heavyweight",
+    "zh": "重量增加(铁块)",
+    "img": "img/parts/02-heavyweight.png"
+  },
+
+  "Wings": {
+    "en": "Wings",
+    "zh": "尾翼(翅膀)",
+    "img": "img/parts/03-wings.png"
+  },
+
+  "Rollcage": {
+    "en": "Rollcage",
+    "zh": "护架",
+    "img": "img/parts/04-rollcage.png"
+  },
+
+  "Air Control": {
+    "en": "Air Control",
+    "zh": "空翻",
+    "img": "img/parts/05-air-control.png"
+  },
+
+  "Winter Tires": {
+    "en": "Winter Tires",
+    "zh": "雪地轮胎(冬胎)",
+    "img": "img/parts/06-winter-tires.png"
+  },
+
+  "Start Boost": {
+    "en": "Start Boost",
+    "zh": "起步加速",
+    "img": "img/parts/07-start-boost.png"
+  },
+
+  "Wheelie Boost": {
+    "en": "Wheelie Boost",
+    "zh": "独轮加速",
+    "img": "img/parts/08-wheelie-boost.png"
+  },
+
+  "Fume Boost": {
+    "en": "Fume Boost",
+    "zh": "尾气加速(低燃加速)",
+    "img": "img/parts/09-fume-boost.png"
+  },
+
+  "Flip Boost": {
+    "en": "Flip Boost",
+    "zh": "翻转加速",
+    "img": "img/parts/10-flip-boost.png"
+  },
+
+  "Jump Shocks": {
+    "en": "Jump Shocks",
+    "zh": "弹跳力(弹簧)",
+    "img": "img/parts/11-jump-shocks.png"
+  },
+
+  "Landing Boost": {
+    "en": "Langding Boost",
+    "zh": "落地加速",
+    "img": "img/parts/12-landing-boost.png"
+  },
+
+  "Overcharged Turbo": {
+    "en": "Overcharged Turbo",
+    "zh": "涡轮增压(过充涡轮)",
+    "img": "img/parts/13-overcharged-turbo.png"
+  },
+
+  "Afterburner": {
+    "en": "Afterburners",
+    "zh": "超频引擎(后燃)",
+    "img": "img/parts/14-afterburner.png"
+  },
+
+  "Fuel Boost": {
+    "en": "Fuel Boost",
+    "zh": "燃料加速(蓝瓶)",
+    "img": "img/parts/15-fuel-boost.png"
+  },
+
+  "Thrusters": {
+    "en": "Thrusters",
+    "zh": "推进器(铃铛)",
+    "img": "img/parts/16-thrusters.png"
+  },
+
+  "Coin Boost": {
+    "en": "Coin Boost",
+    "zh": "金币加速",
+    "img": "img/parts/17-coin-boost.png"
+  }
+}
